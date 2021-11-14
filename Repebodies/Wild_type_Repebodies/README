@@ -1,0 +1,59 @@
+KEY AND INSTRUCTIONS
+
+The 'docked_models' folder contains all Cluspro-generated docked models of anti-IL-6 repebodies docked to IL-6 antigen. Within this folder, there are sub-folders, each containing docked models of a particular repebody-IL-6 complex. The 'predict_repebody_contacts.py' script along with the 'repebody_epitope.py' script is used to extract epitope residues from each docked model and save them into a .csv file. 
+
+A. Description of files in "Epibin_files" folder:
+
+I. 
+1. *_epitopes.csv (where * is the name of the antibody or repebody. Eg. A4_epitopes.csv)
+
+This csv file is a table listing the epitope residues for each of the docked model of that particular repebody - IL6 (or antibody - antigen complex), one model per row.
+
+2. *_*_score.csv (where * is the name of the antibody or repebody. Eg. A4_B3_score.csv)
+
+This csv file contains a matrix listing the epitope overlap scores between pairs of docked models, one from each repebody (or antibody). Each cell contains the epitope overlap score between a particular pair of docked models. The name of the docked models comprising the pair being scored is indicated in the first row and first column (Eg: the A4_B3_score.csv file contains A4-IL6 docked models as rows and docked models of B3 - IL6 as columns. Each cell has a value of the epitope overlap score between a specific pair of docked models, one an A4-IL6 docked model and the other a B3-IL6 docked model).
+
+3. *_score_T.csv (where * is the name of the antibody or repebody. Eg. A4_B3_score_T.csv)
+
+This csv file is a transpose of the corresponding *_score.csv file. In the example, A4_B3_score_T.csv is the file in which the rows and columns have been exchanged so that now the B3-IL6 docked models are present as rows and the A4-IL6 docked models are present in columns.
+
+4. *_common_epitopes.csv (where * is the name of the antibody or repebody. Eg. A4_B3_common_epitopes.csv)
+
+This file lists the epitope residues common to a pair of docked models where each model is that of a different repebody or antibody. A4_B3_common_epitopes.csv lists the common epitope residues between an A4-IL6 docked model and B3-IL6 docked model.
+
+5. list_of_epitope_files
+
+This file is a list of all the *_epi.csv (or *_epitopes.csv) files. This is used as an input for the script "Rb_common_epitopes.py" (or "Ab_common_epitopes.py").
+
+6. list_common_epitope_scores
+
+This file is a list of all the *_score.csv files and is used as an input for the script "models_calculation_new.py". 
+
+
+7. Rb_common_epitopes.py (or Ab_common_epitopes.py)
+
+This script reads in the 'list_of_epitope_files' and calculates the epitope overlap score between all pairs of docked models, one belonging to a set of a specific IL6-binding repebody (or antigen-specific antibody). The output of excecuting this script are the *_score.csv and *_common_epitope.csv files
+
+8. transpose_score.py
+This script generates a transpose matrix of the matrix present in the *_score.csv files.
+
+9. models_calculation_new.py (or antibodies_models_calculation_new.py)
+
+This script takes as input a user-defined threshold of the epitope overlap score (a value between 0 and 1), reads in the 'list_common_epitope_scores' file and calculates the Epibin-predicted competition among IL6-specific repebodies or antigen-specific antibodies. The output of executing this script is a file named "repebody_epibin_EOS_(EOS_threshold).csv" (or "antibody_epibin_EOS_(EOS_threshold).csv").
+
+10. convert_into_matrix.py
+
+This script takes as input the "repebody_epibin_EOS_(EOS_threshold).csv" file and generates a file with the Epibin-predicted competition values in a matrix-like format.
+
+B. Instructions on running the Epibin code for predicting competition among IL6-binding repebodies:
+
+1. Copy all *_epitopes.csv files into a new folder
+2. Copy the files "list_of_epitope_files" and "list_common_epitope_scores" into the same folder
+3. Copy the scripts "Rb_common_epitopes.py","transpose_score.py" ,"models_calculation_new.py" and "convert_into_matrix.py" into the folder
+4. Run the following commands in the order provided:
+i. python3 Rb_common_epitopes.py
+ii. python3 transpose_score.py
+iii. python3 models_calculation_new.py (threshold value = 0.5)
+iv. python3 convert_into_matrix.py
+
+

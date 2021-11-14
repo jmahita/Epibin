@@ -2,7 +2,7 @@ KEY AND INSTRUCTIONS
 
 The 'docked_models' folder contains all Cluspro-generated docked models of anti-SARS-CoV-2 antibodies docked to the RBD domain of SARS-CoV-2 antigen. Within this folder, there are sub-folders, each containing docked models of a particular antibody-RBD complex. The 'extract_epitope.py' script along with the 'epitope.py' script is used to extract epitope residues from each docked model and save them into a .csv file. 
 
-A. Description of files in the 'Epibin_files' folder:
+A. Description of files in the 'Epibin_calculations' folder:
 
 I. 
 1. *_epi.csv (where * is the name of the antibody. Eg:  10954_epi.csv)

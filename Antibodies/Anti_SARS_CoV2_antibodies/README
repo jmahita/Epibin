@@ -46,6 +46,6 @@ This script generates a transpose matrix of the matrix present in the *_score.cs
 This script takes as input the "antibody_epibin_EOS_(EOS_threshold).csv" file and generates a file with the Epibin-predicted competition values in a matrix-like format.
 
 
-C. Instructions on running the Epibin code for predicting competition among Anti-Pfs25 antibodies:
+B. Instructions on running the Epibin code for predicting competition among Anti-Pfs25 antibodies:
 
 Refer to the 'README' file in the 'anti_SARS_CoV2_antibodies' subfolder within the 'example' folder

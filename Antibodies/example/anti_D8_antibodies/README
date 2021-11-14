@@ -27,6 +27,7 @@ This file is a list of all the *_epi.csv files. This is used as an input for the
 
 This file is a list of all the *_score.csv files and is used as an input for the script "antibodies_models_calculation_new.py". 
 
+B. Description of files in the "source_code" directory:
 7. Ab_common_epitopes.py
 
 This script reads in the 'list_of_epitope_files' and calculates the epitope overlap score between all pairs of docked models, one belonging to a set of antigen-specific antibody. The output of exceuting this script are the *_score.csv and *_common_epitope.csv files

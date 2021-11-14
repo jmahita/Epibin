@@ -45,6 +45,6 @@ This script takes as input a user-defined threshold of the epitope overlap score
 This script takes as input the "antibody_epibin_EOS_(EOS_threshold).csv" file and generates a file with the Epibin-predicted competition values in a matrix-like format.
 
 
-C. Instructions on running the Epibin code for predicting competition among Anti-D8 antibodies
+B. Instructions on running the Epibin code for predicting competition among Anti-D8 antibodies
 Refer to the 'README' file in the 'anti_D8_antibodies' subfolder within the 'example' folder
 

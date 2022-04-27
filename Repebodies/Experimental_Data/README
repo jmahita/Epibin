@@ -1,7 +1,0 @@
-DESCRIPTION OF FILES
-
-1. "numerical_data_for_Fig2_heatmaps.xlsx"
-This excel sheet contains the numerical values of Epibin-predicted competition, experimentally-observed competition, competition based on sequence and structural similarity, used to plot the heatmaps shown in the main Figure 2 of the paper.
-
-2. "Raw_Experimental_Data.xlsx"
-This excel file contains the values of experimental raw data obtained from conducting competitive ELISA on wild-type repebodies as well as on A4, B10 and C6 variants; and the results of ELISA on EpiScope-designed repebody-specific disruptive variants of IL-6

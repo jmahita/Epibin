@@ -1,0 +1,26 @@
+bg91,ja112,Common_Epitopes
+model.000.00.pdb,model.000.00.pdb,No common_epitopes
+model.000.00.pdb,model.000.01.pdb,No common_epitopes
+model.000.00.pdb,model.000.02.pdb,98K,57P,58N,96N,99K,56L,59E,53G
+model.000.00.pdb,model.000.03.pdb,103Y,102S,43R
+model.000.00.pdb,model.000.04.pdb,98K,57P,58N,96N,95W,101S,52S,56L,99K,59E,102S,53G,100Y,97K
+model.000.01.pdb,model.000.00.pdb,No common_epitopes
+model.000.01.pdb,model.000.01.pdb,No common_epitopes
+model.000.01.pdb,model.000.02.pdb,No common_epitopes
+model.000.01.pdb,model.000.03.pdb,No common_epitopes
+model.000.01.pdb,model.000.04.pdb,No common_epitopes
+model.000.02.pdb,model.000.00.pdb,71K,209G,13K,4L,222Y,175H,206N,219R,223K,215T,221P,218Y,72E,8N,225N,224L,217N,216E,208E,83V,171T,10E,220N,207H,40K,75Y
+model.000.02.pdb,model.000.01.pdb,71K,209G,3Q,4L,2Q,222Y,175H,206N,219R,223K,215T,221P,218Y,72E,227D,225N,224L,217N,226D,216E,208E,171T,220N,207H,173I,1P,40K
+model.000.02.pdb,model.000.02.pdb,227D,225N,1P,3Q,226D,2Q
+model.000.02.pdb,model.000.03.pdb,71K,209G,4L,2Q,222Y,175H,206N,219R,223K,221P,218Y,72E,217N,69W,216E,208E,220N,207H,173I,40K,75Y
+model.000.02.pdb,model.000.04.pdb,No common_epitopes
+model.000.03.pdb,model.000.00.pdb,No common_epitopes
+model.000.03.pdb,model.000.01.pdb,No common_epitopes
+model.000.03.pdb,model.000.02.pdb,98K,54G,57P,58N,96N,55F,99K,59E,56L,53G
+model.000.03.pdb,model.000.03.pdb,108K,105E,102S
+model.000.03.pdb,model.000.04.pdb,102S,98K,54G,57P,58N,53G,96N,105E,101S,95W,52S,55F,56L,59E,108K,99K,109H,100Y,97K
+model.000.04.pdb,model.000.00.pdb,175H,206N,219R,207H,218Y,225N,224L,223K,217N,216E,174N,221P,208E,40K,4L,171T,205S,220N,204L,222Y
+model.000.04.pdb,model.000.01.pdb,3Q,4L,2Q,222Y,175H,206N,219R,223K,178D,174N,221P,218Y,227D,225N,177A,217N,226D,224L,216E,208E,171T,220N,207H,173I,1P,40K,205S,204L
+model.000.04.pdb,model.000.02.pdb,227D,225N,1P,3Q,226D,110D,2Q
+model.000.04.pdb,model.000.03.pdb,107K,176S,4L,66H,2Q,222Y,175H,206N,219R,68Y,41L,223K,178D,174N,221P,218Y,177A,217N,216E,108K,208E,220N,43R,207H,173I,40K,205S,38T,204L
+model.000.04.pdb,model.000.04.pdb,109H,110D,108K

@@ -1,0 +1,401 @@
+B3,G3,Common Epitopes,
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'154 E', '32 C', '96 A', '107 F', '22 R', '10 Q', '92 E', '9 K', '153 K', '164 R', '89 S', '157 Q', '35 S', '20 A', '12 R', '17 G', '8 D', '16 D', '34 S', '160 L', '103 V', '19 S', '33 E', '15 L', '5 E', '95 R', '13 Y', '11 I', '1 L', '37 E', '23 K', '14 I', '100 S', '93 Q'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '164 R', '89 S', '157 Q', '20 A', '12 R', '8 D', '16 D', '160 L', '103 V', '19 S', '15 L', '5 E', '95 R', '13 Y', '90 S', '1 L', '23 K', '91 E', '100 S', '93 Q'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'154 E', '32 C', '96 A', '22 R', '92 E', '9 K', '153 K', '159 S', '164 R', '162 A', '157 Q', '35 S', '20 A', '12 R', '156 L', '8 D', '17 G', '57 Q', '16 D', '34 S', '150 R', '160 L', '158 S', '19 S', '33 E', '15 L', '13 Y', '48 K', '90 S', '5 E', '11 I', '1 L', '37 E', '23 K', '14 I', '161 R', '56 F', '100 S', '93 Q'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'32 C', '5 E', '23 K', '164 R', '160 L', '157 Q', '20 A', '19 S', '56 F', '9 K', '153 K', '57 Q', '15 L', '12 R', '8 D', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'96 A', '5 E', '164 R', '107 F', '103 V', '10 Q', '92 E', '100 S', '9 K', '12 R', '95 R', '8 D', '13 Y', '16 D', '1 L', '17 G'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'37 E', '32 C', '23 K', '89 S', '22 R', '35 S', '92 E', '20 A', '19 S', '90 S', '33 E', '91 E', '93 Q', '17 G', '16 D'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'96 A', '5 E', '164 R', '107 F', '103 V', '10 Q', '91 E', '92 E', '90 S', '100 S', '9 K', '93 Q', '12 R', '95 R', '8 D', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'154 E', '32 C', '22 R', '92 E', '9 K', '153 K', '164 R', '89 S', '157 Q', '35 S', '20 A', '12 R', '17 G', '8 D', '16 D', '34 S', '150 R', '160 L', '19 S', '33 E', '15 L', '5 E', '13 Y', '90 S', '11 I', '1 L', '37 E', '23 K', '93 Q'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '89 S', '20 A', '12 R', '17 G', '16 D', '103 V', '90 S', '95 R', '13 Y', '1 L', '23 K', '91 E', '100 S', '93 Q'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'107 F', '5 E', '9 K', '1 L'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.10.det_cont.csv,{'34 S', '37 E', '32 C', '22 R', '35 S', '33 E'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'34 S', '37 E', '32 C', '23 K', '22 R', '20 A', '35 S', '19 S', '33 E', '93 Q'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '164 R', '89 S', '162 A', '20 A', '12 R', '17 G', '57 Q', '8 D', '16 D', '103 V', '19 S', '15 L', '5 E', '13 Y', '90 S', '11 I', '1 L', '23 K', '14 I', '91 E', '100 S', '93 Q'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'154 E', '10 Q', '9 K', '153 K', '164 R', '162 A', '35 S', '157 Q', '12 R', '156 L', '57 Q', '8 D', '16 D', '34 S', '160 L', '158 S', '19 S', '33 E', '15 L', '13 Y', '5 E', '11 I', '1 L', '37 E', '14 I', '161 R', '56 F'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'154 E', '32 C', '22 R', '153 K', '164 R', '157 Q', '35 S', '20 A', '12 R', '57 Q', '16 D', '34 S', '150 R', '160 L', '158 S', '19 S', '33 E', '15 L', '48 K', '37 E', '23 K', '161 R', '56 F'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'96 A', '5 E', '107 F', '103 V', '10 Q', '20 A', '92 E', '91 E', '100 S', '9 K', '93 Q', '12 R', '95 R', '13 Y', '16 D', '1 L', '17 G'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'32 C', '96 A', '107 F', '22 R', '10 Q', '92 E', '9 K', '89 S', '35 S', '20 A', '12 R', '17 G', '8 D', '16 D', '34 S', '103 V', '19 S', '33 E', '5 E', '95 R', '13 Y', '90 S', '1 L', '23 K', '14 I', '91 E', '100 S', '93 Q'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.17.det_cont.csv,{'34 S', '37 E', '32 C', '150 R', '23 K', '89 S', '35 S', '33 E'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'34 S', '154 E', '37 E', '150 R', '164 R', '22 R', '157 Q', '35 S', '158 S', '161 R', '56 F', '33 E', '153 K', '159 S', '48 K', '57 Q'}
+f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'154 E', '22 R', '153 K', '164 R', '162 A', '157 Q', '35 S', '156 L', '12 R', '8 D', '57 Q', '34 S', '150 R', '160 L', '158 S', '33 E', '15 L', '48 K', '11 I', '37 E', '161 R', '56 F'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'96 A', '5 E', '164 R', '107 F', '99 M', '103 V', '10 Q', '7 I', '100 S', '9 K', '13 Y', '95 R', '6 R', '1 L'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'96 A', '5 E', '2 T', '164 R', '110 K', '107 F', '99 M', '103 V', '10 Q', '7 I', '106 Q', '9 K', '100 S', '13 Y', '95 R', '6 R', '1 L'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'96 A', '5 E', '164 R', '1 L', '100 S', '9 K', '60 F', '13 Y', '165 Q'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'113 K', '7 I', '9 K', '60 F', '114 N', '62 E', '164 R', '111 K', '4 S', '61 N', '165 Q', '166 M', '5 E', '3 S', '13 Y', '1 L', '2 T', '110 K', '6 R'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'96 A', '107 F', '10 Q', '9 K', '164 R', '4 S', '99 M', '103 V', '5 E', '95 R', '13 Y', '3 S', '102 K', '1 L', '2 T', '109 Q', '110 K', '100 S', '106 Q', '6 R'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.05.det_cont.csv,set()
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'96 A', '163 L', '107 F', '10 Q', '9 K', '164 R', '111 K', '4 S', '165 Q', '166 M', '99 M', '103 V', '5 E', '95 R', '13 Y', '3 S', '102 K', '1 L', '2 T', '110 K', '106 Q', '100 S', '6 R'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'2 T', '164 R', '4 S', '9 K', '5 E', '13 Y', '1 L'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'96 A', '107 F', '113 K', '10 Q', '7 I', '9 K', '111 K', '99 M', '103 V', '13 Y', '95 R', '3 S', '102 K', '1 L', '109 Q', '110 K', '106 Q', '100 S', '6 R'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'166 M', '2 T', '109 Q', '111 K', '107 F', '113 K', '4 S', '115 L', '3 S', '110 K', '106 Q', '9 K', '5 E', '114 N', '6 R', '1 L'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.10.det_cont.csv,set()
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.11.det_cont.csv,set()
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'96 A', '163 L', '107 F', '10 Q', '9 K', '60 F', '62 E', '164 R', '111 K', '4 S', '165 Q', '166 M', '103 V', '5 E', '13 Y', '3 S', '1 L', '2 T', '100 S', '6 R'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'166 M', '5 E', '2 T', '164 R', '111 K', '110 K', '113 K', '4 S', '10 Q', '1 L', '9 K', '60 F', '13 Y', '3 S', '6 R', '165 Q'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'164 R'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'96 A', '107 F', '113 K', '10 Q', '7 I', '9 K', '114 N', '111 K', '115 L', '103 V', '99 M', '5 E', '95 R', '3 S', '13 Y', '102 K', '1 L', '2 T', '109 Q', '110 K', '106 Q', '100 S', '6 R'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'96 A', '5 E', '107 F', '99 M', '103 V', '10 Q', '7 I', '100 S', '9 K', '13 Y', '95 R', '6 R', '1 L'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.17.det_cont.csv,set()
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'62 E', '166 M', '164 R', '60 F', '61 N', '165 Q'}
+f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'165 Q', '60 F', '164 R'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'164 R', '107 F', '99 M', '103 V', '9 K', '5 E', '95 R', '6 R', '1 L'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'2 T', '164 R', '110 K', '107 F', '99 M', '103 V', '106 Q', '9 K', '5 E', '95 R', '6 R', '1 L'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'164 R', '1 L', '9 K', '60 F', '5 E', '165 Q'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'62 E', '166 M', '2 T', '164 R', '111 K', '110 K', '113 K', '4 S', '3 S', '1 L', '112 A', '9 K', '60 F', '5 E', '114 N', '6 R', '165 Q'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'95 R', '2 T', '164 R', '109 Q', '107 F', '99 M', '4 S', '103 V', '110 K', '105 I', '9 K', '106 Q', '5 E', '3 S', '6 R', '102 K', '1 L'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.05.det_cont.csv,set()
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'166 M', '95 R', '2 T', '164 R', '111 K', '107 F', '99 M', '4 S', '103 V', '1 L', '110 K', '106 Q', '9 K', '5 E', '3 S', '6 R', '102 K', '165 Q'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'2 T', '164 R', '4 S', '9 K', '5 E', '1 L'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'95 R', '109 Q', '111 K', '107 F', '113 K', '103 V', '99 M', '110 K', '105 I', '9 K', '106 Q', '3 S', '6 R', '102 K', '1 L'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'107 F', '113 K', '9 K', '114 N', '111 K', '4 S', '74 L', '105 I', '166 M', '117 A', '115 L', '120 T', '5 E', '3 S', '1 L', '2 T', '109 Q', '110 K', '112 A', '106 Q', '6 R'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.10.det_cont.csv,set()
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.11.det_cont.csv,set()
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'62 E', '166 M', '2 T', '164 R', '111 K', '107 F', '1 L', '4 S', '103 V', '9 K', '60 F', '5 E', '3 S', '6 R', '165 Q'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'166 M', '2 T', '164 R', '111 K', '110 K', '113 K', '4 S', '1 L', '9 K', '60 F', '5 E', '3 S', '6 R', '165 Q'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'164 R'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'77 E', '107 F', '113 K', '9 K', '114 N', '111 K', '74 L', '105 I', '117 A', '115 L', '103 V', '99 M', '120 T', '5 E', '95 R', '3 S', '102 K', '1 L', '2 T', '109 Q', '110 K', '112 A', '106 Q', '6 R'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'107 F', '99 M', '103 V', '9 K', '5 E', '95 R', '6 R', '1 L'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.17.det_cont.csv,set()
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'62 E', '166 M', '164 R', '60 F', '165 Q'}
+f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'165 Q', '60 F', '164 R'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'96 A', '5 E', '164 R', '107 F', '99 M', '103 V', '10 Q', '100 S', '13 Y', '6 R', '1 L'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'96 A', '5 E', '2 T', '164 R', '110 K', '107 F', '99 M', '103 V', '10 Q', '106 Q', '100 S', '13 Y', '6 R', '1 L'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'96 A', '5 E', '164 R', '1 L', '100 S', '60 F', '13 Y', '165 Q'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'62 E', '166 M', '5 E', '2 T', '164 R', '111 K', '110 K', '113 K', '4 S', '3 S', '1 L', '112 A', '60 F', '13 Y', '114 N', '6 R', '165 Q'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'96 A', '5 E', '2 T', '164 R', '109 Q', '107 F', '99 M', '4 S', '10 Q', '103 V', '110 K', '100 S', '106 Q', '13 Y', '3 S', '6 R', '102 K', '1 L'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.05.det_cont.csv,set()
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'96 A', '107 F', '10 Q', '164 R', '111 K', '4 S', '165 Q', '166 M', '99 M', '103 V', '5 E', '13 Y', '3 S', '102 K', '1 L', '2 T', '110 K', '106 Q', '100 S', '6 R'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'5 E', '2 T', '164 R', '4 S', '13 Y', '1 L'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'96 A', '109 Q', '111 K', '107 F', '113 K', '103 V', '10 Q', '99 M', '110 K', '106 Q', '100 S', '13 Y', '3 S', '6 R', '102 K', '1 L'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'166 M', '2 T', '109 Q', '111 K', '107 F', '113 K', '4 S', '115 L', '3 S', '110 K', '112 A', '106 Q', '5 E', '114 N', '6 R', '1 L'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.10.det_cont.csv,set()
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.11.det_cont.csv,set()
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'62 E', '166 M', '96 A', '5 E', '2 T', '164 R', '111 K', '107 F', '1 L', '4 S', '10 Q', '103 V', '100 S', '60 F', '13 Y', '3 S', '6 R', '165 Q'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'166 M', '5 E', '2 T', '164 R', '111 K', '110 K', '113 K', '4 S', '10 Q', '1 L', '60 F', '13 Y', '3 S', '6 R', '165 Q'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'164 R'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'96 A', '107 F', '113 K', '10 Q', '114 N', '111 K', '115 L', '103 V', '99 M', '5 E', '3 S', '13 Y', '102 K', '1 L', '2 T', '109 Q', '110 K', '112 A', '106 Q', '100 S', '6 R'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'96 A', '5 E', '107 F', '99 M', '103 V', '10 Q', '100 S', '13 Y', '6 R', '1 L'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.17.det_cont.csv,set()
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'62 E', '166 M', '164 R', '60 F', '165 Q'}
+f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'165 Q', '60 F', '164 R'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '7 I', '9 K', '89 S', '20 A', '12 R', '17 G', '16 D', '99 M', '103 V', '19 S', '15 L', '5 E', '95 R', '13 Y', '11 I', '1 L', '23 K', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'96 A', '88 E', '107 F', '10 Q', '7 I', '92 E', '9 K', '89 S', '20 A', '12 R', '16 D', '97 V', '99 M', '103 V', '19 S', '15 L', '5 E', '95 R', '13 Y', '90 S', '1 L', '23 K', '110 K', '91 E', '101 T', '100 S', '106 Q', '93 Q', '6 R', '84 Q'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'21 L', '96 A', '92 E', '9 K', '20 A', '12 R', '17 G', '16 D', '97 V', '19 S', '15 L', '5 E', '90 S', '13 Y', '11 I', '1 L', '23 K', '100 S', '93 Q'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'5 E', '23 K', '110 K', '20 A', '7 I', '19 S', '9 K', '6 R', '15 L', '12 R', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '105 I', '12 R', '17 G', '16 D', '97 V', '99 M', '103 V', '5 E', '95 R', '13 Y', '102 K', '1 L', '109 Q', '110 K', '100 S', '106 Q', '6 R'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'23 K', '88 E', '89 S', '20 A', '92 E', '19 S', '91 E', '90 S', '93 Q', '17 G', '16 D'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'96 A', '88 E', '107 F', '10 Q', '92 E', '9 K', '12 R', '16 D', '97 V', '99 M', '103 V', '5 E', '90 S', '95 R', '13 Y', '102 K', '1 L', '98 Q', '110 K', '91 E', '101 T', '100 S', '106 Q', '93 Q', '6 R', '84 Q'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'21 L', '5 E', '23 K', '88 E', '89 S', '20 A', '92 E', '19 S', '11 I', '90 S', '9 K', '93 Q', '15 L', '12 R', '13 Y', '16 D', '1 L', '17 G'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '7 I', '9 K', '89 S', '20 A', '105 I', '12 R', '17 G', '16 D', '99 M', '103 V', '90 S', '95 R', '13 Y', '102 K', '98 Q', '1 L', '23 K', '109 Q', '110 K', '91 E', '101 T', '100 S', '106 Q', '93 Q', '6 R'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'109 Q', '110 K', '107 F', '105 I', '9 K', '106 Q', '5 E', '6 R', '1 L'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.10.det_cont.csv,set()
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'21 L', '23 K', '20 A', '19 S', '93 Q'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'21 L', '96 A', '107 F', '10 Q', '92 E', '9 K', '89 S', '20 A', '12 R', '17 G', '16 D', '103 V', '19 S', '15 L', '5 E', '90 S', '13 Y', '11 I', '1 L', '23 K', '91 E', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'5 E', '110 K', '10 Q', '19 S', '11 I', '9 K', '6 R', '15 L', '12 R', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'21 L', '23 K', '20 A', '19 S', '15 L', '12 R', '16 D'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'77 E', '96 A', '107 F', '10 Q', '7 I', '92 E', '9 K', '20 A', '105 I', '12 R', '17 G', '16 D', '97 V', '99 M', '103 V', '5 E', '95 R', '13 Y', '102 K', '98 Q', '1 L', '109 Q', '110 K', '91 E', '100 S', '106 Q', '93 Q', '6 R'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'21 L', '96 A', '88 E', '107 F', '10 Q', '7 I', '92 E', '9 K', '89 S', '20 A', '12 R', '17 G', '16 D', '97 V', '99 M', '103 V', '19 S', '5 E', '95 R', '13 Y', '90 S', '1 L', '23 K', '91 E', '100 S', '93 Q', '6 R', '84 Q'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.17.det_cont.csv,{'89 S', '23 K', '88 E'}
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.18.det_cont.csv,set()
+f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'15 L', '12 R', '11 I'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '20 A', '12 R', '17 G', '16 D', '99 M', '103 V', '5 E', '95 R', '13 Y', '1 L', '14 I', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '20 A', '12 R', '16 D', '97 V', '99 M', '103 V', '5 E', '95 R', '13 Y', '1 L', '2 T', '110 K', '91 E', '100 S', '106 Q', '93 Q', '6 R'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'96 A', '12 R', '5 E', '97 V', '14 I', '20 A', '92 E', '100 S', '9 K', '93 Q', '17 G', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'5 E', '2 T', '111 K', '110 K', '113 K', '112 A', '20 A', '9 K', '6 R', '12 R', '114 N', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '12 R', '17 G', '16 D', '97 V', '99 M', '103 V', '5 E', '95 R', '13 Y', '102 K', '1 L', '2 T', '109 Q', '110 K', '100 S', '106 Q', '6 R'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'91 E', '20 A', '92 E', '93 Q', '17 G', '16 D'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '111 K', '12 R', '16 D', '97 V', '99 M', '103 V', '5 E', '95 R', '13 Y', '102 K', '1 L', '2 T', '110 K', '91 E', '100 S', '106 Q', '93 Q', '6 R'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'12 R', '5 E', '2 T', '20 A', '92 E', '9 K', '93 Q', '17 G', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'96 A', '107 F', '113 K', '10 Q', '92 E', '9 K', '111 K', '20 A', '12 R', '17 G', '16 D', '99 M', '103 V', '13 Y', '95 R', '102 K', '1 L', '109 Q', '110 K', '91 E', '100 S', '106 Q', '93 Q', '108 L', '6 R'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'107 F', '113 K', '9 K', '116 D', '114 N', '119 T', '111 K', '74 L', '117 A', '115 L', '120 T', '5 E', '1 L', '2 T', '109 Q', '118 I', '110 K', '112 A', '106 Q', '108 L', '6 R'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.10.det_cont.csv,set()
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'93 Q', '20 A'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '111 K', '20 A', '12 R', '17 G', '16 D', '103 V', '5 E', '13 Y', '1 L', '2 T', '14 I', '91 E', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'5 E', '2 T', '111 K', '110 K', '113 K', '14 I', '10 Q', '9 K', '6 R', '12 R', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'12 R', '20 A', '16 D'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'96 A', '107 F', '113 K', '10 Q', '92 E', '9 K', '116 D', '114 N', '119 T', '111 K', '74 L', '20 A', '12 R', '17 G', '16 D', '117 A', '97 V', '115 L', '103 V', '99 M', '120 T', '13 Y', '95 R', '5 E', '102 K', '1 L', '121 P', '2 T', '109 Q', '110 K', '118 I', '112 A', '91 E', '106 Q', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '20 A', '12 R', '17 G', '16 D', '97 V', '99 M', '103 V', '5 E', '95 R', '13 Y', '1 L', '14 I', '91 E', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.17.det_cont.csv,set()
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.18.det_cont.csv,set()
+f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'12 R'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '20 A', '12 R', '17 G', '8 D', '16 D', '99 M', '103 V', '27 N', '19 S', '15 L', '5 E', '95 R', '13 Y', '1 L', '23 K', '14 I', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '20 A', '12 R', '8 D', '16 D', '97 V', '99 M', '103 V', '19 S', '15 L', '5 E', '90 S', '95 R', '13 Y', '1 L', '2 T', '23 K', '110 K', '100 S', '106 Q', '93 Q', '6 R', '84 Q'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'96 A', '92 E', '9 K', '20 A', '12 R', '17 G', '8 D', '16 D', '97 V', '27 N', '19 S', '15 L', '5 E', '90 S', '13 Y', '1 L', '23 K', '14 I', '100 S', '93 Q'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'5 E', '2 T', '23 K', '110 K', '20 A', '19 S', '9 K', '6 R', '15 L', '12 R', '8 D', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '105 I', '12 R', '17 G', '8 D', '16 D', '97 V', '99 M', '103 V', '5 E', '95 R', '13 Y', '102 K', '1 L', '2 T', '109 Q', '110 K', '100 S', '106 Q', '6 R'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'23 K', '20 A', '92 E', '27 N', '19 S', '90 S', '93 Q', '17 G', '16 D'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '12 R', '8 D', '16 D', '97 V', '99 M', '103 V', '5 E', '90 S', '95 R', '13 Y', '102 K', '98 Q', '1 L', '2 T', '110 K', '106 Q', '100 S', '93 Q', '6 R', '84 Q'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'12 R', '5 E', '2 T', '23 K', '20 A', '92 E', '27 N', '19 S', '90 S', '9 K', '93 Q', '15 L', '17 G', '8 D', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '20 A', '105 I', '12 R', '17 G', '16 D', '99 M', '103 V', '90 S', '95 R', '13 Y', '102 K', '1 L', '98 Q', '23 K', '109 Q', '110 K', '100 S', '106 Q', '93 Q', '6 R'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'2 T', '109 Q', '110 K', '107 F', '74 L', '105 I', '9 K', '106 Q', '120 T', '5 E', '6 R', '1 L'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.10.det_cont.csv,{'27 N'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'23 K', '20 A', '19 S', '27 N', '93 Q'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '20 A', '12 R', '17 G', '8 D', '16 D', '103 V', '27 N', '19 S', '15 L', '5 E', '90 S', '13 Y', '1 L', '2 T', '23 K', '14 I', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'5 E', '2 T', '110 K', '14 I', '10 Q', '19 S', '9 K', '6 R', '15 L', '12 R', '8 D', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'23 K', '20 A', '19 S', '27 N', '15 L', '12 R', '16 D'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '74 L', '20 A', '105 I', '12 R', '17 G', '16 D', '97 V', '99 M', '103 V', '120 T', '5 E', '95 R', '13 Y', '102 K', '1 L', '98 Q', '2 T', '109 Q', '110 K', '106 Q', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '20 A', '12 R', '17 G', '8 D', '16 D', '97 V', '99 M', '103 V', '27 N', '19 S', '5 E', '90 S', '95 R', '13 Y', '1 L', '23 K', '14 I', '100 S', '93 Q', '6 R', '84 Q'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.17.det_cont.csv,{'23 K', '27 N'}
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.18.det_cont.csv,set()
+f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'15 L', '12 R', '8 D'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'31 M', '32 C', '96 A', '26 C', '22 R', '92 E', '9 K', '153 K', '164 R', '89 S', '157 Q', '35 S', '20 A', '12 R', '17 G', '8 D', '16 D', '34 S', '160 L', '99 M', '27 N', '19 S', '33 E', '15 L', '5 E', '95 R', '13 Y', '11 I', '1 L', '23 K', '14 I', '93 Q', '36 K'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'96 A', '92 E', '9 K', '164 R', '89 S', '157 Q', '20 A', '12 R', '8 D', '16 D', '160 L', '99 M', '19 S', '15 L', '5 E', '90 S', '95 R', '13 Y', '1 L', '23 K', '91 E', '93 Q', '84 Q'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'32 C', '96 A', '26 C', '22 R', '92 E', '9 K', '153 K', '164 R', '157 Q', '35 S', '20 A', '12 R', '17 G', '8 D', '57 Q', '16 D', '34 S', '150 R', '160 L', '27 N', '19 S', '33 E', '149 L', '15 L', '13 Y', '90 S', '5 E', '11 I', '1 L', '18 I', '23 K', '14 I', '161 R', '93 Q', '94 A', '36 K'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'32 C', '5 E', '23 K', '164 R', '160 L', '157 Q', '20 A', '19 S', '9 K', '153 K', '57 Q', '15 L', '12 R', '8 D', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'96 A', '5 E', '164 R', '99 M', '92 E', '9 K', '12 R', '95 R', '8 D', '13 Y', '16 D', '1 L', '17 G'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'31 M', '32 C', '26 C', '22 R', '92 E', '89 S', '35 S', '20 A', '17 G', '16 D', '30 N', '27 N', '19 S', '33 E', '90 S', '23 K', '91 E', '93 Q', '36 K'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'96 A', '5 E', '164 R', '99 M', '91 E', '92 E', '90 S', '84 Q', '9 K', '93 Q', '94 A', '12 R', '95 R', '8 D', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'32 C', '26 C', '22 R', '92 E', '9 K', '153 K', '164 R', '89 S', '157 Q', '35 S', '20 A', '12 R', '17 G', '8 D', '16 D', '34 S', '150 R', '160 L', '30 N', '27 N', '19 S', '33 E', '15 L', '13 Y', '90 S', '5 E', '11 I', '1 L', '18 I', '23 K', '93 Q'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'96 A', '23 K', '89 S', '99 M', '20 A', '92 E', '91 E', '90 S', '9 K', '93 Q', '94 A', '12 R', '95 R', '13 Y', '16 D', '1 L', '17 G'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'5 E', '9 K', '1 L'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.10.det_cont.csv,{'31 M', '34 S', '32 C', '26 C', '30 N', '22 R', '35 S', '27 N', '33 E', '36 K'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'31 M', '34 S', '32 C', '18 I', '26 C', '23 K', '30 N', '22 R', '35 S', '20 A', '27 N', '19 S', '33 E', '93 Q', '36 K'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'96 A', '92 E', '9 K', '164 R', '89 S', '20 A', '12 R', '17 G', '57 Q', '8 D', '16 D', '27 N', '19 S', '15 L', '5 E', '90 S', '13 Y', '11 I', '1 L', '18 I', '23 K', '14 I', '91 E', '93 Q'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'9 K', '153 K', '164 R', '157 Q', '35 S', '12 R', '57 Q', '8 D', '16 D', '34 S', '160 L', '19 S', '33 E', '15 L', '5 E', '13 Y', '11 I', '1 L', '14 I', '161 R', '36 K'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'31 M', '32 C', '26 C', '22 R', '153 K', '164 R', '157 Q', '35 S', '20 A', '12 R', '57 Q', '16 D', '34 S', '150 R', '160 L', '27 N', '19 S', '33 E', '149 L', '15 L', '18 I', '23 K', '161 R', '36 K'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'96 A', '5 E', '99 M', '20 A', '92 E', '91 E', '9 K', '93 Q', '12 R', '95 R', '13 Y', '16 D', '1 L', '17 G'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'31 M', '32 C', '96 A', '26 C', '22 R', '92 E', '9 K', '89 S', '35 S', '20 A', '12 R', '17 G', '8 D', '16 D', '34 S', '30 N', '99 M', '27 N', '19 S', '33 E', '13 Y', '95 R', '90 S', '5 E', '1 L', '18 I', '23 K', '14 I', '91 E', '93 Q', '36 K', '84 Q'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.17.det_cont.csv,{'31 M', '34 S', '32 C', '26 C', '150 R', '23 K', '89 S', '30 N', '35 S', '27 N', '33 E', '36 K'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'34 S', '150 R', '164 R', '157 Q', '35 S', '22 R', '161 R', '33 E', '153 K', '36 K', '57 Q'}
+f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'34 S', '150 R', '164 R', '160 L', '157 Q', '35 S', '22 R', '161 R', '8 D', '33 E', '153 K', '15 L', '12 R', '36 K', '57 Q', '11 I'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'31 M', '32 C', '26 C', '92 E', '9 K', '153 K', '164 R', '89 S', '157 Q', '20 A', '12 R', '17 G', '8 D', '16 D', '34 S', '160 L', '27 N', '19 S', '15 L', '13 Y', '5 E', '23 K', '93 Q'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'88 E', '92 E', '9 K', '164 R', '89 S', '157 Q', '20 A', '12 R', '8 D', '16 D', '97 V', '160 L', '19 S', '15 L', '5 E', '90 S', '13 Y', '23 K', '91 E', '93 Q'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'21 L', '32 C', '26 C', '92 E', '9 K', '153 K', '164 R', '157 Q', '20 A', '12 R', '17 G', '8 D', '16 D', '34 S', '97 V', '160 L', '27 N', '19 S', '15 L', '13 Y', '90 S', '5 E', '18 I', '23 K', '161 R', '93 Q'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'32 C', '5 E', '23 K', '164 R', '160 L', '157 Q', '20 A', '19 S', '9 K', '153 K', '15 L', '12 R', '8 D', '13 Y', '16 D'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'5 E', '164 R', '97 V', '92 E', '9 K', '12 R', '8 D', '13 Y', '16 D', '17 G'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'31 M', '32 C', '26 C', '88 E', '92 E', '137 N', '29 S', '89 S', '20 A', '87 F', '142 D', '139 W', '17 G', '16 D', '30 N', '27 N', '19 S', '24 E', '138 Q', '90 S', '23 K', '91 E', '93 Q', '28 K'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'5 E', '164 R', '88 E', '97 V', '91 E', '92 E', '90 S', '9 K', '93 Q', '12 R', '8 D', '13 Y', '16 D'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'21 L', '32 C', '26 C', '88 E', '92 E', '9 K', '153 K', '29 S', '164 R', '89 S', '157 Q', '20 A', '87 F', '142 D', '12 R', '86 R', '8 D', '17 G', '16 D', '34 S', '160 L', '30 N', '27 N', '19 S', '24 E', '138 Q', '15 L', '13 Y', '90 S', '5 E', '18 I', '23 K', '93 Q', '28 K'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'23 K', '89 S', '20 A', '92 E', '91 E', '90 S', '9 K', '93 Q', '12 R', '13 Y', '16 D', '17 G'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'5 E', '9 K'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.10.det_cont.csv,{'31 M', '34 S', '32 C', '26 C', '30 N', '27 N', '28 K', '137 N', '139 W', '140 L', '29 S'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'31 M', '21 L', '32 C', '26 C', '137 N', '29 S', '20 A', '139 W', '34 S', '30 N', '27 N', '19 S', '24 E', '138 Q', '140 L', '18 I', '23 K', '93 Q', '28 K'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'21 L', '92 E', '9 K', '164 R', '89 S', '20 A', '12 R', '17 G', '8 D', '16 D', '27 N', '19 S', '24 E', '15 L', '5 E', '90 S', '13 Y', '18 I', '23 K', '91 E', '93 Q', '28 K'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'34 S', '5 E', '164 R', '160 L', '157 Q', '19 S', '161 R', '9 K', '153 K', '15 L', '12 R', '8 D', '13 Y', '16 D'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'31 M', '21 L', '32 C', '26 C', '153 K', '164 R', '157 Q', '20 A', '12 R', '16 D', '34 S', '160 L', '27 N', '19 S', '24 E', '15 L', '18 I', '23 K', '161 R'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'12 R', '5 E', '97 V', '20 A', '92 E', '91 E', '9 K', '93 Q', '17 G', '13 Y', '16 D'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'31 M', '21 L', '32 C', '26 C', '88 E', '92 E', '9 K', '29 S', '89 S', '20 A', '12 R', '17 G', '8 D', '16 D', '34 S', '97 V', '30 N', '27 N', '19 S', '24 E', '13 Y', '90 S', '5 E', '18 I', '23 K', '91 E', '93 Q', '28 K'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.17.det_cont.csv,{'31 M', '34 S', '32 C', '26 C', '23 K', '88 E', '89 S', '30 N', '86 R', '27 N', '24 E', '138 Q', '28 K', '137 N', '139 W', '140 L', '29 S'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'34 S', '164 R', '157 Q', '161 R', '153 K'}
+f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'34 S', '164 R', '160 L', '157 Q', '161 R', '153 K', '15 L', '12 R', '8 D'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'22 R', '9 K', '153 K', '164 R', '157 Q', '35 S', '12 R', '8 D', '16 D', '34 S', '160 L', '19 S', '33 E', '15 L', '5 E', '13 Y', '11 I', '1 L', '37 E', '6 R'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'5 E', '2 T', '164 R', '110 K', '160 L', '157 Q', '19 S', '9 K', '6 R', '15 L', '12 R', '8 D', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'22 R', '9 K', '60 F', '153 K', '164 R', '162 A', '157 Q', '35 S', '156 L', '12 R', '57 Q', '8 D', '16 D', '165 Q', '34 S', '160 L', '158 S', '19 S', '33 E', '15 L', '13 Y', '5 E', '11 I', '1 L', '37 E', '161 R', '56 F'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'113 K', '9 K', '60 F', '153 K', '114 N', '164 R', '111 K', '4 S', '157 Q', '12 R', '57 Q', '8 D', '16 D', '165 Q', '166 M', '160 L', '19 S', '15 L', '13 Y', '5 E', '3 S', '1 L', '2 T', '110 K', '56 F', '6 R'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'5 E', '2 T', '164 R', '110 K', '4 S', '9 K', '6 R', '12 R', '3 S', '8 D', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'37 E', '22 R', '35 S', '19 S', '33 E', '16 D'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'166 M', '5 E', '2 T', '164 R', '111 K', '163 L', '1 L', '4 S', '110 K', '9 K', '6 R', '12 R', '3 S', '8 D', '13 Y', '16 D', '165 Q'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'22 R', '9 K', '153 K', '164 R', '4 S', '157 Q', '35 S', '12 R', '8 D', '16 D', '34 S', '160 L', '19 S', '33 E', '15 L', '5 E', '13 Y', '11 I', '1 L', '37 E', '2 T'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'111 K', '110 K', '113 K', '9 K', '6 R', '12 R', '3 S', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'166 M', '2 T', '111 K', '110 K', '113 K', '4 S', '3 S', '9 K', '5 E', '114 N', '6 R', '1 L'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.10.det_cont.csv,{'34 S', '37 E', '22 R', '35 S', '33 E'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'34 S', '37 E', '22 R', '35 S', '19 S', '33 E'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'163 L', '9 K', '60 F', '164 R', '111 K', '4 S', '162 A', '12 R', '57 Q', '8 D', '16 D', '165 Q', '166 M', '19 S', '15 L', '5 E', '3 S', '13 Y', '11 I', '1 L', '2 T', '6 R'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'113 K', '9 K', '60 F', '153 K', '164 R', '111 K', '4 S', '162 A', '157 Q', '35 S', '156 L', '12 R', '57 Q', '8 D', '16 D', '165 Q', '34 S', '166 M', '160 L', '158 S', '19 S', '33 E', '15 L', '13 Y', '3 S', '5 E', '11 I', '1 L', '37 E', '2 T', '110 K', '161 R', '56 F', '6 R'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'34 S', '37 E', '164 R', '160 L', '157 Q', '35 S', '22 R', '158 S', '19 S', '161 R', '33 E', '56 F', '153 K', '15 L', '12 R', '57 Q', '16 D'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'5 E', '2 T', '111 K', '110 K', '113 K', '3 S', '9 K', '6 R', '12 R', '114 N', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'34 S', '5 E', '22 R', '35 S', '19 S', '33 E', '9 K', '6 R', '12 R', '8 D', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.17.det_cont.csv,{'34 S', '33 E', '35 S', '37 E'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'166 M', '34 S', '37 E', '164 R', '157 Q', '22 R', '35 S', '158 S', '161 R', '56 F', '33 E', '60 F', '153 K', '57 Q', '165 Q'}
+f_min.final_model.000.09.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'22 R', '60 F', '153 K', '164 R', '162 A', '157 Q', '35 S', '156 L', '12 R', '57 Q', '8 D', '165 Q', '34 S', '160 L', '158 S', '33 E', '15 L', '11 I', '37 E', '161 R', '56 F'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'34 S', '154 E', '37 E', '5 E', '164 R', '160 L', '22 R', '157 Q', '35 S', '9 K', '146 H', '153 K', '15 L', '12 R', '36 K', '8 D', '11 I', '1 L'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'5 E', '2 T', '164 R', '160 L', '157 Q', '9 K', '15 L', '12 R', '8 D', '1 L'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'154 E', '22 R', '9 K', '60 F', '153 K', '164 R', '157 Q', '35 S', '12 R', '8 D', '57 Q', '165 Q', '34 S', '58 S', '150 R', '55 C', '160 L', '51 E', '158 S', '59 G', '15 L', '48 K', '5 E', '11 I', '1 L', '37 E', '151 S', '161 R', '56 F', '146 H', '49 M', '36 K'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'5 E', '2 T', '164 R', '160 L', '4 S', '157 Q', '1 L', '56 F', '9 K', '60 F', '153 K', '57 Q', '15 L', '12 R', '8 D', '165 Q'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'5 E', '2 T', '164 R', '4 S', '9 K', '12 R', '8 D', '1 L'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'37 E', '39 L', '22 R', '35 S', '146 H', '36 K', '38 A'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'5 E', '2 T', '164 R', '163 L', '1 L', '4 S', '9 K', '12 R', '8 D', '165 Q'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'154 E', '22 R', '9 K', '153 K', '164 R', '4 S', '157 Q', '35 S', '12 R', '8 D', '34 S', '150 R', '160 L', '15 L', '5 E', '11 I', '1 L', '37 E', '2 T'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'12 R', '9 K', '1 L'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'2 T', '4 S', '9 K', '5 E', '1 L'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.10.det_cont.csv,{'34 S', '37 E', '39 L', '38 A', '22 R', '35 S', '147 L', '36 K'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'34 S', '37 E', '39 L', '22 R', '35 S', '146 H', '36 K', '38 A'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'5 E', '2 T', '164 R', '163 L', '1 L', '4 S', '8 D', '9 K', '60 F', '15 L', '12 R', '57 Q', '11 I', '165 Q'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'154 E', '9 K', '60 F', '153 K', '164 R', '4 S', '157 Q', '35 S', '12 R', '57 Q', '8 D', '165 Q', '34 S', '58 S', '160 L', '158 S', '15 L', '5 E', '11 I', '1 L', '37 E', '2 T', '161 R', '56 F', '36 K'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'154 E', '22 R', '147 L', '153 K', '164 R', '157 Q', '35 S', '52 K', '12 R', '57 Q', '34 S', '58 S', '39 L', '150 R', '55 C', '160 L', '51 E', '158 S', '59 G', '15 L', '48 K', '50 A', '37 E', '151 S', '161 R', '56 F', '146 H', '36 K', '49 M', '38 A'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'2 T', '5 E', '9 K', '12 R', '1 L'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'34 S', '5 E', '22 R', '35 S', '9 K', '12 R', '36 K', '8 D', '1 L'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.17.det_cont.csv,{'34 S', '37 E', '39 L', '150 R', '35 S', '147 L', '146 H', '36 K', '38 A'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'154 E', '22 R', '147 L', '60 F', '153 K', '164 R', '157 Q', '35 S', '52 K', '57 Q', '165 Q', '34 S', '58 S', '39 L', '150 R', '55 C', '51 E', '158 S', '59 G', '48 K', '50 A', '37 E', '151 S', '161 R', '56 F', '146 H', '36 K', '49 M', '38 A'}
+f_min.final_model.000.10.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'154 E', '22 R', '147 L', '60 F', '153 K', '164 R', '157 Q', '35 S', '52 K', '12 R', '8 D', '57 Q', '165 Q', '34 S', '58 S', '39 L', '150 R', '160 L', '51 E', '158 S', '59 G', '15 L', '48 K', '11 I', '50 A', '37 E', '151 S', '161 R', '56 F', '36 K', '49 M', '38 A'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'34 S', '154 E', '37 E', '164 R', '157 Q', '35 S', '9 K', '153 K', '5 E', '36 K', '8 D', '6 R', '1 L'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'2 T', '164 R', '157 Q', '9 K', '5 E', '8 D', '6 R', '1 L'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'154 E', '9 K', '60 F', '153 K', '164 R', '157 Q', '35 S', '8 D', '57 Q', '165 Q', '34 S', '58 S', '150 R', '51 E', '158 S', '59 G', '5 E', '48 K', '1 L', '37 E', '161 R', '56 F', '49 M', '36 K'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'113 K', '9 K', '60 F', '153 K', '114 N', '62 E', '164 R', '111 K', '4 S', '157 Q', '61 N', '57 Q', '8 D', '165 Q', '166 M', '5 E', '3 S', '1 L', '2 T', '56 F', '6 R'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'2 T', '164 R', '4 S', '9 K', '5 E', '3 S', '8 D', '6 R', '1 L'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'37 E', '36 K', '35 S'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'166 M', '2 T', '164 R', '111 K', '163 L', '1 L', '4 S', '9 K', '5 E', '3 S', '8 D', '6 R', '165 Q'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'34 S', '154 E', '37 E', '150 R', '2 T', '164 R', '4 S', '157 Q', '35 S', '9 K', '153 K', '5 E', '8 D', '1 L'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'111 K', '113 K', '9 K', '3 S', '6 R', '1 L'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'166 M', '2 T', '111 K', '113 K', '4 S', '3 S', '9 K', '5 E', '114 N', '6 R', '1 L'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.10.det_cont.csv,{'34 S', '37 E', '36 K', '35 S'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'34 S', '37 E', '36 K', '35 S'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'62 E', '166 M', '2 T', '164 R', '163 L', '111 K', '1 L', '4 S', '8 D', '9 K', '60 F', '5 E', '3 S', '57 Q', '6 R', '165 Q'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'154 E', '113 K', '9 K', '60 F', '153 K', '164 R', '111 K', '4 S', '157 Q', '35 S', '8 D', '57 Q', '165 Q', '34 S', '166 M', '58 S', '158 S', '5 E', '3 S', '1 L', '37 E', '2 T', '161 R', '56 F', '36 K', '6 R'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'154 E', '153 K', '164 R', '157 Q', '35 S', '57 Q', '34 S', '58 S', '150 R', '51 E', '158 S', '59 G', '48 K', '50 A', '37 E', '161 R', '56 F', '49 M', '36 K'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'2 T', '111 K', '113 K', '9 K', '5 E', '3 S', '6 R', '1 L', '114 N'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'34 S', '35 S', '9 K', '5 E', '36 K', '8 D', '6 R', '1 L'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.17.det_cont.csv,{'34 S', '37 E', '150 R', '35 S', '36 K'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'154 E', '60 F', '153 K', '62 E', '164 R', '157 Q', '35 S', '61 N', '57 Q', '165 Q', '166 M', '34 S', '58 S', '150 R', '51 E', '158 S', '59 G', '48 K', '50 A', '37 E', '161 R', '56 F', '49 M', '36 K'}
+f_min.final_model.000.11.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'154 E', '60 F', '153 K', '164 R', '157 Q', '35 S', '8 D', '57 Q', '165 Q', '34 S', '58 S', '150 R', '51 E', '158 S', '59 G', '48 K', '50 A', '37 E', '161 R', '56 F', '49 M', '36 K'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'99 M', '95 R'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'88 E', '99 M', '91 E', '95 R', '84 Q'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.02.det_cont.csv,set()
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.03.det_cont.csv,set()
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'99 M', '95 R', '102 K'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'88 E', '41 E', '91 E', '143 M', '138 Q', '137 N', '139 W'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'88 E', '99 M', '91 E', '84 Q', '95 R', '102 K', '98 Q'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'138 Q', '88 E'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'99 M', '91 E', '95 R', '102 K', '98 Q'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'74 L'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.10.det_cont.csv,{'41 E', '143 M', '137 N', '139 W', '140 L'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'41 E', '143 M', '138 Q', '141 Q', '136 Q', '137 N', '139 W', '140 L'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'91 E'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.13.det_cont.csv,set()
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.14.det_cont.csv,set()
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'77 E', '99 M', '74 L', '91 E', '95 R', '102 K', '98 Q'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'88 E', '99 M', '91 E', '95 R', '84 Q'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.17.det_cont.csv,{'88 E', '41 E', '135 A', '143 M', '138 Q', '136 Q', '132 K', '137 N', '139 W', '140 L'}
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.18.det_cont.csv,set()
+f_min.final_model.000.12.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'41 E', '132 K'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '20 A', '12 R', '17 G', '16 D', '99 M', '103 V', '19 S', '5 E', '95 R', '13 Y', '1 L', '23 K', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '20 A', '12 R', '16 D', '97 V', '99 M', '103 V', '19 S', '5 E', '95 R', '13 Y', '1 L', '2 T', '23 K', '110 K', '101 T', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'96 A', '5 E', '23 K', '97 V', '20 A', '92 E', '19 S', '100 S', '9 K', '93 Q', '12 R', '13 Y', '16 D', '1 L', '17 G'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'113 K', '9 K', '114 N', '62 E', '111 K', '20 A', '12 R', '16 D', '166 M', '19 S', '5 E', '3 S', '13 Y', '1 L', '2 T', '23 K', '110 K', '112 A', '6 R'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '12 R', '17 G', '16 D', '97 V', '99 M', '103 V', '5 E', '95 R', '3 S', '13 Y', '1 L', '2 T', '109 Q', '110 K', '100 S', '6 R'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'23 K', '20 A', '19 S', '92 E', '93 Q', '17 G', '16 D'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '111 K', '12 R', '16 D', '166 M', '97 V', '99 M', '103 V', '5 E', '95 R', '3 S', '13 Y', '98 Q', '1 L', '2 T', '110 K', '101 T', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'5 E', '2 T', '23 K', '20 A', '92 E', '19 S', '9 K', '93 Q', '12 R', '13 Y', '16 D', '1 L', '17 G'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'96 A', '107 F', '113 K', '10 Q', '92 E', '9 K', '111 K', '20 A', '12 R', '17 G', '16 D', '99 M', '103 V', '13 Y', '95 R', '3 S', '98 Q', '1 L', '23 K', '109 Q', '110 K', '101 T', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'166 M', '2 T', '109 Q', '111 K', '107 F', '113 K', '3 S', '110 K', '112 A', '9 K', '5 E', '114 N', '6 R', '1 L'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.10.det_cont.csv,set()
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'23 K', '93 Q', '20 A', '19 S'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '62 E', '111 K', '20 A', '12 R', '17 G', '16 D', '166 M', '103 V', '19 S', '5 E', '3 S', '13 Y', '1 L', '2 T', '23 K', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'166 M', '5 E', '2 T', '111 K', '110 K', '113 K', '10 Q', '19 S', '9 K', '6 R', '12 R', '3 S', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'23 K', '20 A', '19 S', '12 R', '16 D'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'96 A', '107 F', '113 K', '10 Q', '92 E', '9 K', '114 N', '111 K', '20 A', '12 R', '17 G', '16 D', '97 V', '99 M', '103 V', '5 E', '95 R', '3 S', '13 Y', '1 L', '98 Q', '2 T', '109 Q', '110 K', '112 A', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '20 A', '12 R', '17 G', '16 D', '97 V', '99 M', '103 V', '19 S', '5 E', '95 R', '13 Y', '1 L', '23 K', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.17.det_cont.csv,{'23 K'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'62 E', '166 M'}
+f_min.final_model.000.13.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'12 R'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'96 A', '22 R', '92 E', '9 K', '164 R', '89 S', '20 A', '12 R', '17 G', '8 D', '16 D', '160 L', '27 N', '19 S', '15 L', '5 E', '95 R', '13 Y', '1 L', '23 K', '93 Q', '6 R'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'96 A', '88 E', '92 E', '9 K', '164 R', '89 S', '20 A', '12 R', '8 D', '16 D', '97 V', '160 L', '19 S', '15 L', '5 E', '90 S', '95 R', '13 Y', '1 L', '2 T', '23 K', '91 E', '93 Q', '6 R'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'21 L', '96 A', '22 R', '92 E', '9 K', '164 R', '162 A', '20 A', '12 R', '17 G', '8 D', '57 Q', '16 D', '165 Q', '97 V', '160 L', '27 N', '19 S', '15 L', '13 Y', '90 S', '5 E', '1 L', '18 I', '23 K', '161 R', '93 Q', '94 A'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'113 K', '9 K', '62 E', '164 R', '111 K', '4 S', '20 A', '12 R', '57 Q', '8 D', '16 D', '165 Q', '166 M', '160 L', '19 S', '15 L', '5 E', '3 S', '13 Y', '1 L', '2 T', '23 K', '6 R'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'95 R', '96 A', '5 E', '2 T', '164 R', '97 V', '4 S', '92 E', '9 K', '6 R', '12 R', '3 S', '8 D', '13 Y', '16 D', '1 L', '17 G'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'23 K', '88 E', '89 S', '22 R', '20 A', '92 E', '27 N', '19 S', '24 E', '90 S', '91 E', '93 Q', '17 G', '28 K', '16 D'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'96 A', '88 E', '163 L', '92 E', '9 K', '164 R', '111 K', '4 S', '12 R', '8 D', '16 D', '165 Q', '166 M', '97 V', '5 E', '3 S', '95 R', '13 Y', '90 S', '1 L', '2 T', '91 E', '93 Q', '94 A', '6 R'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'21 L', '88 E', '22 R', '92 E', '9 K', '164 R', '89 S', '4 S', '20 A', '12 R', '17 G', '8 D', '16 D', '160 L', '27 N', '19 S', '24 E', '15 L', '13 Y', '90 S', '5 E', '1 L', '18 I', '2 T', '23 K', '93 Q', '28 K'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'96 A', '113 K', '92 E', '9 K', '111 K', '89 S', '20 A', '12 R', '17 G', '16 D', '90 S', '3 S', '95 R', '13 Y', '1 L', '23 K', '91 E', '93 Q', '94 A', '6 R'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'166 M', '2 T', '111 K', '113 K', '4 S', '9 K', '5 E', '3 S', '6 R', '1 L'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.10.det_cont.csv,{'28 K', '22 R', '27 N'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'21 L', '18 I', '23 K', '22 R', '20 A', '19 S', '27 N', '24 E', '93 Q', '28 K'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'21 L', '96 A', '163 L', '92 E', '9 K', '62 E', '164 R', '111 K', '89 S', '4 S', '162 A', '20 A', '12 R', '17 G', '57 Q', '8 D', '16 D', '165 Q', '166 M', '27 N', '19 S', '24 E', '28 K', '15 L', '5 E', '13 Y', '3 S', '90 S', '1 L', '18 I', '2 T', '23 K', '91 E', '93 Q', '6 R'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'113 K', '9 K', '164 R', '111 K', '4 S', '162 A', '12 R', '57 Q', '8 D', '16 D', '165 Q', '166 M', '160 L', '19 S', '15 L', '5 E', '3 S', '13 Y', '1 L', '2 T', '161 R', '6 R'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'21 L', '18 I', '23 K', '164 R', '160 L', '22 R', '20 A', '27 N', '19 S', '161 R', '24 E', '15 L', '12 R', '57 Q', '16 D'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'96 A', '113 K', '92 E', '9 K', '111 K', '20 A', '12 R', '17 G', '16 D', '97 V', '5 E', '3 S', '95 R', '13 Y', '1 L', '2 T', '91 E', '93 Q', '6 R'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'21 L', '96 A', '88 E', '22 R', '92 E', '9 K', '89 S', '20 A', '12 R', '17 G', '8 D', '16 D', '97 V', '27 N', '19 S', '24 E', '28 K', '90 S', '95 R', '13 Y', '5 E', '1 L', '18 I', '23 K', '91 E', '93 Q', '6 R'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.17.det_cont.csv,{'23 K', '88 E', '89 S', '27 N', '24 E', '28 K'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'62 E', '166 M', '164 R', '22 R', '161 R', '57 Q', '165 Q'}
+f_min.final_model.000.14.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'164 R', '160 L', '22 R', '162 A', '161 R', '8 D', '15 L', '12 R', '57 Q', '165 Q'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'96 A', '5 E', '107 F', '99 M', '103 V', '10 Q', '9 K', '6 R', '12 R', '95 R', '8 D', '13 Y', '1 L'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'96 A', '5 E', '2 T', '110 K', '107 F', '99 M', '103 V', '10 Q', '106 Q', '9 K', '6 R', '12 R', '95 R', '8 D', '13 Y', '1 L'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'96 A', '5 E', '9 K', '12 R', '8 D', '13 Y', '1 L'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'5 E', '2 T', '110 K', '113 K', '3 S', '112 A', '9 K', '6 R', '12 R', '114 N', '8 D', '13 Y', '1 L'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'96 A', '107 F', '10 Q', '9 K', '105 I', '12 R', '8 D', '99 M', '103 V', '5 E', '95 R', '3 S', '13 Y', '102 K', '1 L', '2 T', '109 Q', '110 K', '106 Q', '6 R'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.05.det_cont.csv,set()
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'95 R', '96 A', '5 E', '2 T', '110 K', '107 F', '99 M', '103 V', '10 Q', '106 Q', '9 K', '6 R', '12 R', '3 S', '8 D', '13 Y', '102 K', '1 L'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'12 R', '2 T', '9 K', '5 E', '8 D', '13 Y', '1 L'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'96 A', '109 Q', '110 K', '107 F', '113 K', '99 M', '10 Q', '103 V', '3 S', '105 I', '9 K', '106 Q', '6 R', '12 R', '95 R', '13 Y', '102 K', '1 L'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'107 F', '113 K', '9 K', '116 D', '114 N', '119 T', '74 L', '105 I', '117 A', '115 L', '70 I', '120 T', '5 E', '3 S', '1 L', '2 T', '109 Q', '118 I', '110 K', '112 A', '106 Q', '6 R'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.10.det_cont.csv,set()
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.11.det_cont.csv,set()
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'96 A', '5 E', '2 T', '107 F', '103 V', '10 Q', '9 K', '6 R', '12 R', '3 S', '8 D', '13 Y', '1 L'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'5 E', '2 T', '110 K', '113 K', '10 Q', '9 K', '6 R', '12 R', '3 S', '8 D', '13 Y', '1 L'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'12 R'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'77 E', '96 A', '107 F', '113 K', '10 Q', '9 K', '116 D', '114 N', '119 T', '74 L', '105 I', '12 R', '117 A', '115 L', '103 V', '99 M', '70 I', '120 T', '13 Y', '3 S', '95 R', '5 E', '102 K', '1 L', '121 P', '2 T', '109 Q', '110 K', '118 I', '112 A', '106 Q', '6 R'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'96 A', '5 E', '107 F', '99 M', '103 V', '10 Q', '9 K', '6 R', '12 R', '95 R', '8 D', '13 Y', '1 L'}
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.17.det_cont.csv,set()
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.18.det_cont.csv,set()
+f_min.final_model.000.15.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'12 R', '8 D'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'5 E', '164 R', '107 F', '99 M', '103 V', '10 Q', '9 K', '13 Y', '6 R', '1 L'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'5 E', '2 T', '164 R', '110 K', '107 F', '99 M', '103 V', '10 Q', '106 Q', '9 K', '13 Y', '6 R', '1 L'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'5 E', '164 R', '9 K', '13 Y', '1 L'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'5 E', '2 T', '164 R', '110 K', '113 K', '4 S', '3 S', '112 A', '9 K', '13 Y', '114 N', '6 R', '1 L'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'5 E', '2 T', '164 R', '109 Q', '107 F', '99 M', '4 S', '10 Q', '103 V', '110 K', '105 I', '9 K', '106 Q', '13 Y', '3 S', '6 R', '102 K', '1 L'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.05.det_cont.csv,set()
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'5 E', '2 T', '164 R', '110 K', '107 F', '99 M', '4 S', '10 Q', '103 V', '106 Q', '9 K', '13 Y', '3 S', '6 R', '102 K', '1 L'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'2 T', '164 R', '4 S', '9 K', '5 E', '13 Y', '1 L'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'109 Q', '110 K', '107 F', '113 K', '103 V', '10 Q', '99 M', '105 I', '9 K', '106 Q', '108 L', '13 Y', '3 S', '6 R', '102 K', '1 L'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'107 F', '113 K', '9 K', '116 D', '114 N', '119 T', '4 S', '74 L', '105 I', '117 A', '115 L', '70 I', '120 T', '5 E', '3 S', '1 L', '2 T', '109 Q', '118 I', '110 K', '112 A', '106 Q', '108 L', '6 R'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.10.det_cont.csv,set()
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.11.det_cont.csv,set()
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'5 E', '2 T', '164 R', '107 F', '4 S', '10 Q', '103 V', '9 K', '13 Y', '3 S', '6 R', '1 L'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'5 E', '2 T', '164 R', '110 K', '113 K', '4 S', '10 Q', '9 K', '13 Y', '3 S', '6 R', '1 L'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'164 R'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'77 E', '107 F', '113 K', '10 Q', '9 K', '116 D', '114 N', '119 T', '74 L', '105 I', '117 A', '115 L', '103 V', '99 M', '70 I', '120 T', '5 E', '3 S', '13 Y', '102 K', '1 L', '121 P', '2 T', '109 Q', '110 K', '118 I', '112 A', '106 Q', '6 R'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'5 E', '107 F', '99 M', '103 V', '10 Q', '9 K', '13 Y', '6 R', '1 L'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.17.det_cont.csv,set()
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'164 R'}
+f_min.final_model.000.16.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'164 R'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'5 E', '164 R', '160 L', '9 K', '15 L', '12 R', '8 D', '11 I', '1 L'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'5 E', '2 T', '164 R', '160 L', '9 K', '15 L', '12 R', '8 D', '1 L'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'58 S', '5 E', '164 R', '160 L', '51 E', '162 A', '1 L', '161 R', '56 F', '9 K', '60 F', '57 Q', '59 G', '15 L', '12 R', '8 D', '11 I', '165 Q'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'113 K', '9 K', '60 F', '114 N', '62 E', '164 R', '111 K', '4 S', '61 N', '12 R', '57 Q', '8 D', '165 Q', '166 M', '160 L', '15 L', '5 E', '1 L', '2 T', '56 F'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'5 E', '2 T', '164 R', '4 S', '9 K', '12 R', '8 D', '1 L'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.05.det_cont.csv,set()
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'166 M', '5 E', '2 T', '164 R', '111 K', '1 L', '4 S', '9 K', '12 R', '8 D', '165 Q'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'5 E', '2 T', '164 R', '160 L', '4 S', '9 K', '15 L', '12 R', '8 D', '11 I', '1 L'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'111 K', '113 K', '9 K', '12 R', '1 L'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'166 M', '2 T', '111 K', '113 K', '4 S', '115 L', '9 K', '116 D', '5 E', '114 N', '1 L'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.10.det_cont.csv,set()
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.11.det_cont.csv,set()
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'62 E', '166 M', '5 E', '2 T', '164 R', '111 K', '1 L', '4 S', '162 A', '9 K', '60 F', '57 Q', '15 L', '12 R', '8 D', '11 I', '165 Q'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'113 K', '9 K', '60 F', '164 R', '111 K', '4 S', '162 A', '12 R', '57 Q', '8 D', '165 Q', '166 M', '58 S', '160 L', '15 L', '5 E', '11 I', '1 L', '2 T', '161 R', '56 F'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'58 S', '164 R', '160 L', '51 E', '161 R', '52 K', '56 F', '59 G', '15 L', '12 R', '57 Q'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'5 E', '2 T', '111 K', '113 K', '115 L', '9 K', '116 D', '12 R', '114 N', '1 L'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'5 E', '9 K', '12 R', '8 D', '1 L'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.17.det_cont.csv,set()
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'62 E', '166 M', '58 S', '164 R', '51 E', '161 R', '52 K', '56 F', '60 F', '61 N', '59 G', '57 Q', '165 Q'}
+f_min.final_model.000.17.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'58 S', '164 R', '160 L', '51 E', '162 A', '161 R', '52 K', '56 F', '60 F', '57 Q', '59 G', '15 L', '12 R', '8 D', '11 I', '165 Q'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'32 C', '96 A', '26 C', '107 F', '10 Q', '22 R', '92 E', '7 I', '9 K', '153 K', '157 Q', '35 S', '20 A', '12 R', '17 G', '16 D', '34 S', '99 M', '103 V', '27 N', '19 S', '13 Y', '95 R', '1 L', '23 K', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '7 I', '9 K', '157 Q', '20 A', '12 R', '16 D', '97 V', '99 M', '103 V', '19 S', '13 Y', '95 R', '1 L', '23 K', '110 K', '91 E', '100 S', '106 Q', '93 Q', '6 R'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'32 C', '96 A', '26 C', '22 R', '92 E', '9 K', '153 K', '157 Q', '35 S', '20 A', '12 R', '17 G', '16 D', '34 S', '97 V', '27 N', '19 S', '13 Y', '1 L', '23 K', '100 S', '93 Q', '94 A'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'32 C', '23 K', '110 K', '157 Q', '20 A', '7 I', '19 S', '9 K', '153 K', '6 R', '12 R', '3 S', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '12 R', '17 G', '16 D', '97 V', '99 M', '103 V', '13 Y', '95 R', '3 S', '102 K', '1 L', '110 K', '100 S', '106 Q', '6 R'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'32 C', '26 C', '23 K', '22 R', '35 S', '92 E', '20 A', '27 N', '19 S', '91 E', '93 Q', '17 G', '16 D'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '12 R', '16 D', '97 V', '99 M', '103 V', '13 Y', '95 R', '3 S', '102 K', '1 L', '110 K', '91 E', '106 Q', '100 S', '93 Q', '94 A', '6 R'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'32 C', '26 C', '22 R', '92 E', '9 K', '153 K', '157 Q', '35 S', '20 A', '12 R', '17 G', '16 D', '34 S', '27 N', '19 S', '13 Y', '1 L', '23 K', '93 Q'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '7 I', '9 K', '20 A', '12 R', '17 G', '16 D', '99 M', '103 V', '13 Y', '3 S', '95 R', '102 K', '1 L', '23 K', '110 K', '91 E', '100 S', '106 Q', '93 Q', '94 A', '6 R'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'110 K', '107 F', '106 Q', '9 K', '3 S', '6 R', '1 L'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.10.det_cont.csv,{'34 S', '32 C', '26 C', '22 R', '35 S', '27 N'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'34 S', '32 C', '26 C', '23 K', '22 R', '20 A', '35 S', '27 N', '19 S', '93 Q'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'96 A', '107 F', '10 Q', '92 E', '9 K', '20 A', '12 R', '17 G', '16 D', '103 V', '27 N', '19 S', '13 Y', '3 S', '1 L', '23 K', '91 E', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'34 S', '110 K', '157 Q', '10 Q', '35 S', '19 S', '9 K', '153 K', '6 R', '12 R', '3 S', '13 Y', '16 D', '1 L'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'34 S', '32 C', '26 C', '23 K', '22 R', '157 Q', '35 S', '20 A', '27 N', '19 S', '153 K', '12 R', '16 D'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'96 A', '107 F', '10 Q', '7 I', '92 E', '9 K', '20 A', '12 R', '17 G', '16 D', '97 V', '99 M', '103 V', '13 Y', '95 R', '3 S', '102 K', '1 L', '110 K', '91 E', '106 Q', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'32 C', '96 A', '26 C', '107 F', '10 Q', '22 R', '92 E', '7 I', '9 K', '35 S', '20 A', '12 R', '17 G', '16 D', '34 S', '97 V', '99 M', '103 V', '27 N', '19 S', '13 Y', '95 R', '1 L', '23 K', '91 E', '100 S', '93 Q', '6 R'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.17.det_cont.csv,{'34 S', '32 C', '26 C', '23 K', '35 S', '27 N'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'34 S', '157 Q', '22 R', '35 S', '153 K'}
+f_min.final_model.000.18.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'34 S', '157 Q', '22 R', '35 S', '153 K', '12 R'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.00.det_cont.csv,{'34 S', '154 E', '5 E', '164 R', '160 L', '157 Q', '19 S', '9 K', '153 K', '15 L', '12 R', '8 D', '6 R', '16 D', '1 L'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.01.det_cont.csv,{'5 E', '2 T', '164 R', '110 K', '160 L', '157 Q', '19 S', '9 K', '15 L', '12 R', '8 D', '6 R', '16 D', '1 L'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.02.det_cont.csv,{'154 E', '9 K', '153 K', '164 R', '162 A', '157 Q', '12 R', '57 Q', '8 D', '16 D', '165 Q', '34 S', '150 R', '160 L', '158 S', '19 S', '15 L', '5 E', '48 K', '1 L', '18 I', '161 R', '56 F', '49 M'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.03.det_cont.csv,{'113 K', '9 K', '153 K', '164 R', '111 K', '4 S', '157 Q', '12 R', '57 Q', '8 D', '16 D', '165 Q', '166 M', '160 L', '19 S', '15 L', '5 E', '3 S', '1 L', '2 T', '110 K', '56 F', '6 R'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.04.det_cont.csv,{'5 E', '2 T', '164 R', '110 K', '4 S', '9 K', '12 R', '3 S', '8 D', '6 R', '16 D', '1 L'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.05.det_cont.csv,{'19 S', '16 D'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.06.det_cont.csv,{'166 M', '5 E', '2 T', '164 R', '111 K', '163 L', '1 L', '4 S', '110 K', '9 K', '12 R', '3 S', '8 D', '6 R', '16 D', '165 Q'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.07.det_cont.csv,{'34 S', '154 E', '18 I', '150 R', '5 E', '164 R', '2 T', '160 L', '4 S', '157 Q', '19 S', '9 K', '153 K', '15 L', '12 R', '8 D', '16 D', '1 L'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.08.det_cont.csv,{'111 K', '110 K', '113 K', '9 K', '12 R', '3 S', '6 R', '16 D', '1 L'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.09.det_cont.csv,{'166 M', '2 T', '111 K', '110 K', '113 K', '4 S', '9 K', '5 E', '3 S', '6 R', '1 L'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.10.det_cont.csv,{'34 S'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.11.det_cont.csv,{'34 S', '18 I', '19 S'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.12.det_cont.csv,{'163 L', '9 K', '164 R', '111 K', '4 S', '162 A', '12 R', '57 Q', '8 D', '16 D', '165 Q', '166 M', '19 S', '15 L', '5 E', '3 S', '1 L', '18 I', '2 T', '6 R'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.13.det_cont.csv,{'154 E', '113 K', '9 K', '153 K', '164 R', '111 K', '4 S', '162 A', '157 Q', '12 R', '57 Q', '8 D', '16 D', '165 Q', '34 S', '166 M', '160 L', '158 S', '19 S', '15 L', '5 E', '3 S', '1 L', '2 T', '110 K', '161 R', '56 F', '6 R'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.14.det_cont.csv,{'34 S', '154 E', '18 I', '49 M', '150 R', '164 R', '160 L', '157 Q', '158 S', '19 S', '161 R', '56 F', '153 K', '15 L', '12 R', '57 Q', '48 K', '16 D'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.15.det_cont.csv,{'5 E', '2 T', '111 K', '110 K', '113 K', '9 K', '12 R', '3 S', '6 R', '16 D', '1 L'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.16.det_cont.csv,{'34 S', '18 I', '5 E', '19 S', '9 K', '12 R', '8 D', '6 R', '16 D', '1 L'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.17.det_cont.csv,{'34 S', '150 R'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.18.det_cont.csv,{'34 S', '154 E', '166 M', '150 R', '164 R', '157 Q', '158 S', '161 R', '56 F', '155 F', '153 K', '49 M', '48 K', '57 Q', '165 Q'}
+f_min.final_model.000.19.det_cont.csv,f_min.final_model.000.19.det_cont.csv,{'34 S', '154 E', '49 M', '150 R', '164 R', '160 L', '157 Q', '162 A', '158 S', '161 R', '56 F', '153 K', '57 Q', '15 L', '12 R', '8 D', '48 K', '165 Q'}

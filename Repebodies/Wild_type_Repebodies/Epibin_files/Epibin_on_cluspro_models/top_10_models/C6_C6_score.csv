@@ -1,0 +1,11 @@
+ ,f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.04.det_cont.csv,f_min.final_model.000.05.det_cont.csv,f_min.final_model.000.06.det_cont.csv,f_min.final_model.000.07.det_cont.csv,f_min.final_model.000.08.det_cont.csv,f_min.final_model.000.09.det_cont.csv
+f_min.final_model.000.00.det_cont.csv,1.000,0.434,0.185,0.217,0.407,0.159,0.420,0.317,0.070,0.340
+f_min.final_model.000.01.det_cont.csv,0.434,1.000,0.095,0.283,0.633,0.273,0.210,0.509,0.212,0.523
+f_min.final_model.000.02.det_cont.csv,0.185,0.095,1.000,0.279,0.125,0.250,0.462,0.151,0.141,0.115
+f_min.final_model.000.03.det_cont.csv,0.217,0.283,0.279,1.000,0.351,0.373,0.358,0.455,0.400,0.306
+f_min.final_model.000.04.det_cont.csv,0.407,0.633,0.125,0.351,1.000,0.355,0.271,0.596,0.311,0.489
+f_min.final_model.000.05.det_cont.csv,0.159,0.273,0.250,0.373,0.355,1.000,0.162,0.475,0.424,0.365
+f_min.final_model.000.06.det_cont.csv,0.420,0.210,0.462,0.358,0.271,0.162,1.000,0.182,0.172,0.148
+f_min.final_model.000.07.det_cont.csv,0.317,0.509,0.151,0.455,0.596,0.475,0.182,1.000,0.456,0.591
+f_min.final_model.000.08.det_cont.csv,0.070,0.212,0.141,0.400,0.311,0.424,0.172,0.456,1.000,0.264
+f_min.final_model.000.09.det_cont.csv,0.340,0.523,0.115,0.306,0.489,0.365,0.148,0.591,0.264,1.000

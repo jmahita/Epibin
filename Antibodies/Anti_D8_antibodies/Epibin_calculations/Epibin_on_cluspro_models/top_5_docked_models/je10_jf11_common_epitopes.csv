@@ -1,0 +1,26 @@
+je10,jf11,Common_Epitopes
+model.000.00.pdb,model.000.00.pdb,No common_epitopes
+model.000.00.pdb,model.000.01.pdb,71K,209G,3Q,176S,4L,2Q,222Y,175H,206N,219R,214I,68Y,41L,223K,212H,215T,178D,221P,218Y,72E,227D,225N,213Y,177A,224L,226D,217N,216E,208E,171T,220N,207H,228T,85K,40K,205S,38T,204L,75Y
+model.000.00.pdb,model.000.02.pdb,No common_epitopes
+model.000.00.pdb,model.000.03.pdb,No common_epitopes
+model.000.00.pdb,model.000.04.pdb,No common_epitopes
+model.000.01.pdb,model.000.00.pdb,154Y,63S,31K,34T,62L,50Y,48G,49G,153F,148P,95W,101S,47K,151S,29E,100Y,97K,150D,46F,26H,149F,103Y,59E,61V,43R,98K,152V,96N,99K,28N,45N,33T
+model.000.01.pdb,model.000.01.pdb,No common_epitopes
+model.000.01.pdb,model.000.02.pdb,98K,154Y,26H,61V,47K,59E,28N,50Y,29E,97K,48G,49G
+model.000.01.pdb,model.000.03.pdb,98K,153F,154Y,26H,59E,28N,50Y,29E,97K
+model.000.01.pdb,model.000.04.pdb,150D,153F,152V,148P,154Y,26H,149F,31K,47K,151S,28N,50Y,29E,33T
+model.000.02.pdb,model.000.00.pdb,150D,153F,152V,148P,154Y,46F,149F,31K,47K,151S,28N,34T,32P,29E,33T
+model.000.02.pdb,model.000.01.pdb,No common_epitopes
+model.000.02.pdb,model.000.02.pdb,47K,29E,28N,154Y
+model.000.02.pdb,model.000.03.pdb,153F,128V,154Y,132K,156D,126K,157N,28N,129Y,29E
+model.000.02.pdb,model.000.04.pdb,128V,154Y,31K,134V,135N,153F,148P,132K,47K,151S,29E,150D,156D,126K,149F,157N,32P,136Q,152V,131Q,28N,129Y,33T
+model.000.03.pdb,model.000.00.pdb,98K,57P,58N,56L,99K,53G,100Y
+model.000.03.pdb,model.000.01.pdb,227D,228T,225N,3Q,226D,178D,2Q
+model.000.03.pdb,model.000.02.pdb,98K,20L,54G,57P,58N,18A,19R,55F,60Y,56L,21K,53G
+model.000.03.pdb,model.000.03.pdb,21K,53G,98K,54G
+model.000.03.pdb,model.000.04.pdb,No common_epitopes
+model.000.04.pdb,model.000.00.pdb,99K
+model.000.04.pdb,model.000.01.pdb,71K,209G,3Q,176S,4L,2Q,222Y,175H,206N,219R,68Y,5S,41L,223K,215T,178D,174N,218Y,227D,225N,224L,217N,226D,177A,216E,208E,171T,220N,207H,173I,228T,40K,205S,204L
+model.000.04.pdb,model.000.02.pdb,No common_epitopes
+model.000.04.pdb,model.000.03.pdb,No common_epitopes
+model.000.04.pdb,model.000.04.pdb,No common_epitopes

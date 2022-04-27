@@ -1,0 +1,6 @@
+ ,f_min.final_model.000.00.det_cont.csv,f_min.final_model.000.01.det_cont.csv,f_min.final_model.000.02.det_cont.csv,f_min.final_model.000.03.det_cont.csv,f_min.final_model.000.04.det_cont.csv
+f_min.final_model.000.00.det_cont.csv,0.250,0.180,0.240,0.389,0.425
+f_min.final_model.000.01.det_cont.csv,0.186,0.132,0.194,0.417,0.415
+f_min.final_model.000.02.det_cont.csv,0.356,0.138,0.185,0.300,0.674
+f_min.final_model.000.03.det_cont.csv,0.764,0.422,0.403,0.139,0.309
+f_min.final_model.000.04.det_cont.csv,0.500,0.161,0.210,0.212,0.429

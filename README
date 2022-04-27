@@ -1,0 +1,42 @@
+# ******************************************************************************
+# Authors      : Jarjapu Mahita
+		Dong-Gun Kim
+		Sumin Son
+		Yoonjoo Choi (kalicuta@gmail.com)
+		Hak-Sung Kim (hskim76@kaist.ac.kr)
+		Chris Bailey-Kellogg (cbk@cs.dartmouth.edu)
+# Project     : Computational epitope binning reveals functional equivalence of sequence-divergent paratopes
+# Description : This github repository contains code, docked models and data pertaining to results
+described in "Computational epitope binning reveals functional equivalence of sequence-divergent paratopes".
+# ************************************************************************
+
+
+
+# Copyright (C) <2021>  <Jarjapu Mahita>
+
+#     This program is free software: you can redistribute it and/or modify
+#     it under the terms of the GNU General Public License as published by
+#     the Free Software Foundation, either version 3 of the License, or
+#     (at your option) any later version.
+
+#     This program is distributed in the hope that it will be useful,
+#     but WITHOUT ANY WARRANTY; without even the implied warranty of
+#     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#     GNU General Public License for more details.
+
+#     You should have received a copy of the GNU General Public License
+#     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#**************************************************************************
+
+#******SOFTWARE REQUIREMENTS (VERSION)*************
+1. Python 3 and above
+2. BioPython (compatible with Python 3, 1.79)
+3. Pandas (1.2.1)
+***************************************************
+
+#***********INSTRUCTIONS FOR REPRODUCING EPIBIN RESULTS DESCRIBED IN PAPER**************************
+Each of the 'Antibodies' and 'Rebebodies' folders contains a sub-folder named 'example' within which sub-folders along with instructions about executing the code to reproduce the output are present.
+
+In addition to the 'example' sub-folder, there are other sub-folders each of which contains a README file describing the types of files and scripts used to generate the Epibin results.
+#***************************************************************************************************

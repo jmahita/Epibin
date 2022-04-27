@@ -1,0 +1,51 @@
+KEY AND INSTRUCTIONS
+
+The 'docked_models' folder contains all Cluspro-generated and HADDOCK docked models of anti-SARS-CoV-2 antibodies docked to the RBD domain of SARS-CoV-2 antigen. Within each of these folders, there are sub-folders, each containing docked models of a particular antibody-RBD complex. The 'extract_epitope.py' script along with the 'epitope.py' script is used to extract epitope residues from each docked model and save them into a .csv file. 
+
+A. Description of files in the 'Epibin_calculations' folder:
+
+I. 
+1. *_epi.csv/*_epitope.csv (where * is the name of the antibody. Eg:  10954_epi.csv)
+
+This csv file is a table listing the epitope residues for each of the docked model of that particular antibody - antigen complex one model per row.
+
+2. *_*_score.csv (where * is the name of the antibody. Eg. 10954_10989_score.csv)
+
+This csv file contains a matrix listing the epitope overlap scores between pairs of docked models, one from each antibody. Each cell contains the epitope overlap score between a particular pair of docked models. The name of the docked models comprising the pair being scored is indicated in the first row and first column (Eg: the 10954_10989_score.csv file contains 10954-RBD docked models as rows and docked models of 10989-RBD as columns. Each cell has a value of the epitope overlap score between a specific pair of docked models, one an 10954-RBD docked model and the other a 10989-RBD docked model).
+
+3. *_score_T.csv (where * is the name of the antibody or repebody. Eg. 10954_10989_score_T.csv)
+
+This csv file is a transpose of the corresponding *_score.csv file. For example, 10954_10989_score_T.csv is the file in which the rows and columns have been exchanged so that now the 10989-RBD docked models are present as rows and the 10954-RBD docked models are present in columns.
+
+4. *_common_epitopes.csv (where * is the name of the antibody. Eg. 10954_10989_common_epitopes.csv)
+
+This file lists the epitope residues common to a pair of docked models where each model is that of a different antibody. 10954_10989_common_epitopes.csv lists the common epitope residues between an 10954-RBD docked model and 10989-RBD docked model.
+
+5. list_of_epitope_files
+
+This file is a list of all the *_epi.csv files. This is used as an input for the script  Ab_common_epitopes.py.
+
+6. list_common_epitope_scores
+
+This file is a list of all the *_score.csv files and is used as an input for the script "antibodies_models_calculation_new.py". 
+
+
+7. Ab_common_epitopes.py
+
+This script reads in the 'list_of_epitope_files' and calculates the epitope overlap score between all pairs of docked models, one belonging to a set of antigen-specific antibody. The output of exceuting this script are the *_score.csv and *_common_epitope.csv files
+
+8. antibodies_models_calculation_new.py
+
+This script takes as input a user-defined threshold of the epitope overlap score (a value between 0 and 1), reads in the 'list_common_epitope_scores' file and calculates the Epibin-predicted competition among antigen-specific antibodies. The output of executing this script is a file named "antibody_epibin_EOS_(EOS_threshold).csv".
+
+9. transpose_score.py
+This script generates a transpose matrix of the matrix present in the *_score.csv files.
+
+10. convert_into_matrix.py
+
+This script takes as input the "antibody_epibin_EOS_(EOS_threshold).csv" file and generates a file with the Epibin-predicted competition values in a matrix-like format.
+
+
+B. Instructions on running the Epibin code for predicting competition among Anti-SARS-CoV-2 antibodies:
+
+Refer to the 'README' file in the 'anti_SARS_CoV2_antibodies' subfolder within the 'example' folder

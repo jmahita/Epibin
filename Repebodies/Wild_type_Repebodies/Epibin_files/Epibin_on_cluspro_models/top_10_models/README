@@ -1,0 +1,7 @@
+1. Make a file, "list_of_epitope_files" containing names of epitope files for each of the repebodies. Example: G1_epitopes.csv, G3_epitopes.csv
+2. Run Rb_common_epitopes.py, using "list_of_epitope_files" file as input. This step returns a "*_common_epitopes.csv" and a "*_score.csv" file for every pair of repebodies. Example: "A10_A4_score.csv", "A10_A4_common_epitopes.csv"
+3.Make a file, "list_common_epitope_scores", containing names of score files (eg; "A10_A4_score.csv")
+4.Run "transpose_score.py" using "list_common_epitope_scores" as input. This step returns a file,"*_score_T.csv" containing the transposed matrix for every "*_score.csv" file.
+5.Run model_calculation_new.py.Upon executing the script, it will prompt the user to select a threshold (epitope overlap score) for considering a pair of docked models to be counted as competing. User needs to specify the name of the output file in this script.
+6.Run "convert_into_matrix.py" using the name of the output file generated in step-5, as input. This returns a file with the scores in a matrix format, which can be used for making heatmaps.
+

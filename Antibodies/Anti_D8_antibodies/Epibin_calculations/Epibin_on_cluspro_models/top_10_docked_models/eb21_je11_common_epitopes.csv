@@ -1,0 +1,101 @@
+eb21,je11,Common_Epitopes
+model.000.00.pdb,model.000.00.pdb,170G,178D,227D,225N,177A,3Q,179A,108K,171T,169L,99K,228T,226D,1P,229E,110D,2Q,111D
+model.000.00.pdb,model.000.01.pdb,221P,227D,225N,4L,3Q,222Y,228T,1P,229E,223K,224L,2Q,226D
+model.000.00.pdb,model.000.02.pdb,227D,179A,107K,108K,99K,110D,111D,225N,171T,228T,226D,178D,170G,4L,3Q,169L,1P,2Q,176S,109H,229E,177A
+model.000.00.pdb,model.000.03.pdb,No common_epitopes
+model.000.00.pdb,model.000.04.pdb,178D,170G,227D,225N,3Q,179A,169L,228T,226D,1P,229E,110D,2Q,111D
+model.000.00.pdb,model.000.05.pdb,221P,4L,219R,5S,175H,222Y,223K
+model.000.00.pdb,model.000.06.pdb,227D,219R,179A,107K,108K,99K,110D,111D,225N,5S,171T,228T,224L,174N,226D,178D,170G,4L,3Q,175H,169L,1P,223K,2Q,176S,222Y,109H,229E,177A
+model.000.00.pdb,model.000.07.pdb,178D,227D,225N,3Q,224L,169L,99K,228T,226D,1P,109H,229E,223K,110D,2Q,111D
+model.000.00.pdb,model.000.08.pdb,No common_epitopes
+model.000.00.pdb,model.000.09.pdb,221P,227D,225N,4L,219R,3Q,222Y,228T,223K,224L,226D
+model.000.01.pdb,model.000.00.pdb,178D,177A,3Q,108K,171T,2Q
+model.000.01.pdb,model.000.01.pdb,221P,4L,3Q,222Y,223K,2Q
+model.000.01.pdb,model.000.02.pdb,178D,177A,4L,3Q,107K,108K,171T,105E,176S,106A,2Q
+model.000.01.pdb,model.000.03.pdb,No common_epitopes
+model.000.01.pdb,model.000.04.pdb,178D,2Q,3Q
+model.000.01.pdb,model.000.05.pdb,216E,221P,220N,219R,204L,39G,209G,205S,208E,218Y,5S,78N,207H,4L,40K,210K,175H,206N,217N,223K,222Y,211P
+model.000.01.pdb,model.000.06.pdb,178D,177A,4L,219R,3Q,5S,107K,108K,171T,105E,175H,176S,222Y,223K,174N,2Q
+model.000.01.pdb,model.000.07.pdb,178D,223K,2Q,3Q
+model.000.01.pdb,model.000.08.pdb,No common_epitopes
+model.000.01.pdb,model.000.09.pdb,221P,4L,220N,218Y,219R,3Q,222Y,223K
+model.000.02.pdb,model.000.00.pdb,20L,227D,21K,230V,99K,15I,110D,168Y,111D,225N,231Y,19R,228T,18A,226D,170G,178D,16S,3Q,55F,169L,1P,56L,17N,2Q,229E,57P
+model.000.02.pdb,model.000.01.pdb,227D,225N,3Q,231Y,230V,228T,1P,229E,13K,7I,224L,2Q,226D
+model.000.02.pdb,model.000.02.pdb,180V,227D,21K,54G,99K,110D,111D,58N,225N,96N,231Y,19R,228T,18A,226D,170G,178D,100Y,3Q,60Y,55F,169L,1P,56L,17N,2Q,229E,112G,57P
+model.000.02.pdb,model.000.03.pdb,21K
+model.000.02.pdb,model.000.04.pdb,20L,227D,180V,21K,54G,230V,15I,110D,168Y,58N,111D,225N,231Y,19R,228T,18A,226D,170G,178D,3Q,16S,55F,167T,169L,1P,56L,17N,2Q,229E,57P
+model.000.02.pdb,model.000.05.pdb,No common_epitopes
+model.000.02.pdb,model.000.06.pdb,180V,227D,230V,99K,110D,111D,225N,231Y,19R,228T,224L,226D,178D,170G,3Q,169L,1P,2Q,229E,112G,7I
+model.000.02.pdb,model.000.07.pdb,227D,180V,21K,54G,230V,99K,15I,110D,111D,58N,225N,231Y,19R,228T,13K,224L,18A,226D,178D,3Q,60Y,55F,169L,1P,56L,17N,2Q,14A,229E,57P
+model.000.02.pdb,model.000.08.pdb,58N,20L,16S,21K,54G,19R,17N,15I,14A,18A
+model.000.02.pdb,model.000.09.pdb,227D,225N,3Q,230V,228T,13K,7I,224L,14A,226D
+model.000.03.pdb,model.000.00.pdb,No common_epitopes
+model.000.03.pdb,model.000.01.pdb,221P,80L,8N,13K,12K,222Y,10E,82D,223K,224L,83V
+model.000.03.pdb,model.000.02.pdb,No common_epitopes
+model.000.03.pdb,model.000.03.pdb,No common_epitopes
+model.000.03.pdb,model.000.04.pdb,No common_epitopes
+model.000.03.pdb,model.000.05.pdb,216E,217N,221P,220N,219R,218Y,40K,75Y,222Y,72E,215T,223K,71K
+model.000.03.pdb,model.000.06.pdb,222Y,223K,224L,219R
+model.000.03.pdb,model.000.07.pdb,13K,223K,224L,12K
+model.000.03.pdb,model.000.08.pdb,No common_epitopes
+model.000.03.pdb,model.000.09.pdb,221P,220N,218Y,219R,80L,85K,8N,13K,12K,84Y,222Y,75Y,10E,82D,223K,224L,83V
+model.000.04.pdb,model.000.00.pdb,227D,225N,16S,3Q,231Y,19R,230V,55F,169L,228T,226D,1P,229E,15I,17N,2Q,18A,168Y
+model.000.04.pdb,model.000.01.pdb,227D,225N,4L,3Q,231Y,230V,228T,1P,229E,13K,223K,224L,2Q,226D
+model.000.04.pdb,model.000.02.pdb,180V,227D,225N,4L,3Q,231Y,19R,55F,169L,228T,1P,229E,17N,2Q,18A,226D
+model.000.04.pdb,model.000.03.pdb,No common_epitopes
+model.000.04.pdb,model.000.04.pdb,180V,227D,225N,16S,3Q,231Y,19R,230V,167T,55F,169L,228T,226D,1P,229E,15I,17N,2Q,18A,168Y
+model.000.04.pdb,model.000.05.pdb,223K,4L
+model.000.04.pdb,model.000.06.pdb,180V,227D,225N,4L,3Q,231Y,19R,230V,169L,228T,1P,229E,223K,224L,2Q,226D
+model.000.04.pdb,model.000.07.pdb,180V,227D,225N,3Q,224L,231Y,19R,230V,55F,169L,228T,1P,229E,13K,223K,15I,17N,2Q,18A,226D
+model.000.04.pdb,model.000.08.pdb,16S,19R,15I,17N,18A
+model.000.04.pdb,model.000.09.pdb,227D,225N,4L,3Q,230V,228T,13K,223K,224L,226D
+model.000.05.pdb,model.000.00.pdb,57P,99K
+model.000.05.pdb,model.000.01.pdb,No common_epitopes
+model.000.05.pdb,model.000.02.pdb,58N,100Y,96N,101S,99K,57P
+model.000.05.pdb,model.000.03.pdb,26H,30S,154Y,29E,28N,152V,153F
+model.000.05.pdb,model.000.04.pdb,58N,57P,98K,59E
+model.000.05.pdb,model.000.05.pdb,No common_epitopes
+model.000.05.pdb,model.000.06.pdb,99K
+model.000.05.pdb,model.000.07.pdb,58N,99K,57P,98K
+model.000.05.pdb,model.000.08.pdb,58N,26H,59E,29E,50Y,28N
+model.000.05.pdb,model.000.09.pdb,No common_epitopes
+model.000.06.pdb,model.000.00.pdb,108K
+model.000.06.pdb,model.000.01.pdb,No common_epitopes
+model.000.06.pdb,model.000.02.pdb,101S,108K,100Y,105E
+model.000.06.pdb,model.000.03.pdb,30S,154Y,29E,152V,153F
+model.000.06.pdb,model.000.04.pdb,59E
+model.000.06.pdb,model.000.05.pdb,No common_epitopes
+model.000.06.pdb,model.000.06.pdb,108K,105E
+model.000.06.pdb,model.000.07.pdb,No common_epitopes
+model.000.06.pdb,model.000.08.pdb,29E,59E,50Y
+model.000.06.pdb,model.000.09.pdb,No common_epitopes
+model.000.07.pdb,model.000.00.pdb,20L,16S,21K,231Y,19R,110D,55F,99K,1P,229E,57P,56L,15I,17N,18A,111D
+model.000.07.pdb,model.000.01.pdb,229E,231Y,1P
+model.000.07.pdb,model.000.02.pdb,58N,100Y,21K,54G,96N,231Y,19R,55F,109H,99K,1P,229E,57P,56L,110D,17N,18A,111D
+model.000.07.pdb,model.000.03.pdb,24D,22P,23L,21K
+model.000.07.pdb,model.000.04.pdb,20L,21K,54G,24D,52S,110D,15I,22P,111D,58N,231Y,19R,59E,18A,16S,55F,1P,56L,17N,53G,98K,229E,57P
+model.000.07.pdb,model.000.05.pdb,No common_epitopes
+model.000.07.pdb,model.000.06.pdb,231Y,19R,109H,99K,1P,229E,110D,111D
+model.000.07.pdb,model.000.07.pdb,58N,53G,21K,54G,231Y,19R,110D,98K,55F,109H,99K,1P,229E,57P,56L,15I,17N,18A,111D
+model.000.07.pdb,model.000.08.pdb,58N,20L,53G,16S,21K,54G,19R,59E,24D,52S,23L,15I,17N,22P,18A
+model.000.07.pdb,model.000.09.pdb,No common_epitopes
+model.000.08.pdb,model.000.00.pdb,No common_epitopes
+model.000.08.pdb,model.000.01.pdb,80L,221P,223K,222Y
+model.000.08.pdb,model.000.02.pdb,No common_epitopes
+model.000.08.pdb,model.000.03.pdb,No common_epitopes
+model.000.08.pdb,model.000.04.pdb,No common_epitopes
+model.000.08.pdb,model.000.05.pdb,216E,212H,221P,220N,219R,209G,71K,208E,218Y,203S,215T,207H,40K,210K,206N,217N,223K,213Y,72E,222Y,75Y
+model.000.08.pdb,model.000.06.pdb,222Y,223K,219R
+model.000.08.pdb,model.000.07.pdb,223K
+model.000.08.pdb,model.000.08.pdb,No common_epitopes
+model.000.08.pdb,model.000.09.pdb,221P,220N,218Y,219R,80L,222Y,75Y,85K,223K
+model.000.09.pdb,model.000.00.pdb,No common_epitopes
+model.000.09.pdb,model.000.01.pdb,221P
+model.000.09.pdb,model.000.02.pdb,No common_epitopes
+model.000.09.pdb,model.000.03.pdb,No common_epitopes
+model.000.09.pdb,model.000.04.pdb,No common_epitopes
+model.000.09.pdb,model.000.05.pdb,216E,212H,221P,220N,219R,204L,39G,209G,71K,205S,208E,218Y,75Y,203S,215T,40K,210K,206N,217N,213Y,211P,72E
+model.000.09.pdb,model.000.06.pdb,219R
+model.000.09.pdb,model.000.07.pdb,No common_epitopes
+model.000.09.pdb,model.000.08.pdb,No common_epitopes
+model.000.09.pdb,model.000.09.pdb,221P,220N,218Y,219R,75Y,85K
